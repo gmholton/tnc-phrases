@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% if page.description %}
+	<h1>{{page.description}}</h1>
+ {% else %}
+	<h1>{{page.title}}</h1>
+ {% endif %}
+ 
+{{content}}
+
+{% assign thephrases = site.data.phrases | where:"secnum",page.section %}
+{% for row in thephrases %}
+   <table border=0><tr><td><b><span style="fs7">{{row.tnc}}</b><br/> {{row.eng}}</td>
+   <td><audio src="{{site.audiourl}}/{{row.audio}}" controls type="audio/mpeg">Your browser does not support the audio tag.</audio></td></tr></table> 
+   <!--
+     <p><audio src="{{site.audiourl}}/{{row.audio}}" controls type="audio/mpeg" style="float:left;margin-right:20px;width:300px;">Your browser does not support the audio tag.</audio>
+   <b>{{row.tnc}}</b><br/> {{row.eng}}</p>
+   -->
+ 
+{% endfor %}
+

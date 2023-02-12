@@ -1,0 +1,68 @@
+.tech { background-color: yellow; }
+
+/* instructions */
+
+video {
+	width: 300px;
+	height: 200px;
+	}
+
+// body { margin: 0% 10% 0% 10%;
+
+
+
+// p, td, h1, h2, h3, h4, li {  font-family: Helvetica, Arial, sans-serif; } 
+
+.nogap { margin-top: 3px; }
+
+.biblio {
+		margin-top: 3px;
+		margin-left: 50px;
+		text-indent: -50px;
+		}
+		
+
+.warn { color: blue }
+
+.bullet {
+	float: left;
+	margin-right: 100px;}
+
+.instr
+{
+	color: darkred;
+	
+}
+
+.def
+{
+	font-variant: small-caps;
+}
+
+
+.tnc {font-weight: bold;}
+
+.gloss {font-style: italic; font-size: large;}
+
+.tech-title
+{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size:x-large
+}
+.fineprint
+{
+	font-size: x-small;
+	font-family: sans-serif;
+}
+
+
+
+.highlight {
+	color: #FF3333;
+}
+.similar_sounds {
+	font-size: larger;
+	font-weight: bold;
+}
