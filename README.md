@@ -2,7 +2,7 @@
 
 This repository contains a migration of an HTML version of the *Tanacross Phrase and Conversation Lessons*, originally published as a booklet with CD in 2003. 
 
-> Solomon, Irene & Holton, Gary & Thoman, Richard. 2003. Dihthâad Xt’een Iin Aanděg’, The Mansfield People’s Language (Tanacross Phrase and Conversation Lessons). Fairbanks: Alaska Native Language Center.
+> Solomon, Irene, Gary Holton, and Richard Thoman. 2003. Dihthâad Xt’een Iin Aanděg’, The Mansfield People’s Language (Tanacross Phrase and Conversation Lessons). Fairbanks: Alaska Native Language Center.
 
 This new site uses [Jekyll](https://jekyllrb.com/) with embedded audio.
 
