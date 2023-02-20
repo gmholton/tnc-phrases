@@ -14,7 +14,7 @@ permalink: credits
 - Cover photo of Mansield Lake (Dihthâad Měnn') by Wayne Towriss.
 - Original CD art by Gary John.
 - Editing and production by Thomas Alton.
-- Web version recoded by Gary Holton and available on [Github](http://github.com/gmholton/tld-phrases). 
+- Web version recoded by Gary Holton and available on [Github](http://github.com/gmholton/tnc-phrases). 
 
 Original CD-ROM distributed by  the [Alaska Native Language Center](https://epay.alaska.edu/C21563_ustores/web/product_detail.jsp?PRODUCTID=5708&SINGLESTORE=true).
 
