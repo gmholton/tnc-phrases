@@ -1,9 +1,11 @@
+<h1 style="margin-right:10px;margin-top:5px;">
 {% if page.layout == "phrase" %}
 	{% if page.description %}
-		<h1>{{ page.description }}</h1>
+		{{ page.description }}
 	{% else %}
-		<h1>{{ page.title }}</h1>
+		{{ page.title }}
 	{% endif %}
 {% else %}	
-	<h1>{{ site.description }}</h1>
+	{{ site.description }}
 {% endif %}
+</h1>

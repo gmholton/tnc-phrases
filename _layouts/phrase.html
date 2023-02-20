@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% comment %}
+{% comment %} Category title now in page header
 {% if page.description %}
 	<h1>{{page.description}}</h1>
  {% else %}
@@ -39,7 +39,8 @@ layout: default
 {% assign thephrases = site.data.phrases | where:"secnum",page.section %}
 {% for row in thephrases %}
    <table border=0><tr><td><span class="tnc">{{row.tnc}}</span><br/> <span class="gloss">{{row.eng}}</span></td>
-   <td><audio src="{{site.audiourl}}/{{row.audio}}" controls type="audio/mpeg">Your browser does not support the audio tag.</audio></td></tr></table> 
+   <td><audio src="{{site.baseurl}}/{{site.audiopath}}/{{row.audio}}" controls type="audio/mpeg">Your browser does not support the audio tag.</audio></td></tr></table> 
+
 {% comment %}
    <!--
      <p><audio src="{{site.audiourl}}/{{row.audio}}" controls type="audio/mpeg" style="float:left;margin-right:20px;width:300px;">Your browser does not support the audio tag.</audio>

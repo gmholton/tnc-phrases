@@ -11,13 +11,12 @@ has_toc: false
 The phrases are divided into thematic categories. Choose  a category to get started. 
 
 
-<center><p>
-{% assign c = 0 %}
+<div style="display:flex;align-items:center;flex-wrap:wrap;margin-left:25px;margin-right:25px;">
 {% for row in site.data.categories %}
-{% assign c = c | plus: 1 %}
-<button type="button" name="button" class="btn-green" style="border: 0px;padding:5px;margin-right: 10px;" onclick="window.location.href='{% link {{row.name | prepend: "phrases/" }} %}';">{{row.short}}</button>
-{% if c == 4 %}{% assign c=0 %}</p><p>{% endif %}
+<div style="margin:10px;">
+<button type="button" name="button" class="btn-green" style="border-radius:5px;border: 0px;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;" onclick="window.location.href='{% link {{row.name | prepend: "phrases/" }} %}';">{{row.short}}</button>
+</div>
 {% endfor %}
-</p></center>
+</div>
 
 <br/><br/><br/><br/>

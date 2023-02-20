@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://gmholton.github.io/phrases
 
+audiopath: "assets/audio"
+
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
