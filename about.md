@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-# About the Tanacross Language
+## About the Tanacross Language
 
 Tanacross is ancestral language of the middle Tanana valley in eastern interior Alaska, including the current and former villages of Tanacross, Mansfield, Ketchumstuck, Joseph, Healy Lake, and Dot Lake. It shares many similarities with neighboring languages belonging to the Dene (Athabascan) family, including Lower Tanana, Ahtna, Han, and Upper Tanana. However, Tanacross is readily distinguished from other Athabascan languages by the presence of unique tonal patterns. For example, the Tanacross word for ‘willow ptarmigan’ is *k'étmah*, with a sequence of high pitch (tone) followed by low pitch. While other Dene languages may have very similar words for ‘willow ptarmigan’, Tanacross is the only Dene language in Alaska to show this distinct tone pattern. 
 

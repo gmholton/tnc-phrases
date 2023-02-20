@@ -7,17 +7,32 @@ url: https://gmholton.github.io/phrases
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-back_to_top: false
+back_to_top: true
 
 gh_edit_link: false # show or hide edit this page link
 
-footer_content: "Copyright &copy; 2003-2020 Irene Solomon Arnold, Gary Holton, and Rick Thoman. <a href='http://www.uaf.edu/anlc'>Alaska Native Language Center</a>"
+footer_content: "Copyright &copy; 2003-2023 Irene Solomon Arnold, Gary Holton, and Rick Thoman. <a href='credits.html'>Credits</a>."
 
-search_enabled: true
+number_categories: 28 # total number of categories in categories.csv
+
+color_scheme: color
+
+defaults:
+  -
+    scope:
+      path: "phrases" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "phrase"
+      nav_exclude: # true
+      parent: Category
+
+
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
-  heading_level: 1
+  heading_level: 2
   # Maximum amount of previews per search result
   # Default: 3
   previews: 5
@@ -33,7 +48,7 @@ search:
   tokenizer_separator: /[\s/]+/
   # Display the relative url in search results
   # Supports true (default) or false
-  rel_url: true
+  rel_url: false
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
