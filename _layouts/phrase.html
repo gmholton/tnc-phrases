@@ -84,7 +84,7 @@ layout: default
     {% endif %}
 	<a class="back" href="#top">Back to top</a>
 
-  {% if page.section <= site.number_categories %}
+  {% if page.section < site.number_categories %}
   	{% assign num = page.section | plus: 1 %}
   {% else %}
   	{% assign num = 1 %}
