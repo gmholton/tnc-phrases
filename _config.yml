@@ -8,6 +8,7 @@ audiopath: "assets/audio"
 
 exclude:
   - ripped/
+  - scripts/
   
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
