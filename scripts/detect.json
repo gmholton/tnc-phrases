@@ -1,0 +1,7367 @@
+{
+    "tnc-29-101.wav": {
+        "text": "letter",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-7.wav": {
+        "text": "number two",
+        "confidence": 0.83737242,
+        "language": "eng"
+    },
+    "tnc-29-115.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-17.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-36.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-43.wav": {
+        "text": "what do you want to eat",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-18-12.wav": {
+        "text": "it rained yesterday also",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-26.wav": {
+        "text": "letter",
+        "confidence": 0.81318641,
+        "language": "tnc"
+    },
+    "tnc-29-32.wav": {
+        "text": "some letters",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-16.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-5.wav": {
+        "text": "number two",
+        "confidence": 0.89760566,
+        "language": "eng"
+    },
+    "tnc-27-23.wav": {
+        "text": "Charlie told",
+        "confidence": 0.5938803,
+        "language": "tnc"
+    },
+    "tnc-06-12.wav": {
+        "text": "oh too sh",
+        "confidence": 0.79509735,
+        "language": "tnc"
+    },
+    "tnc-01-33.wav": {
+        "text": "that's okay",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-01-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-32.wav": {
+        "text": "fuck",
+        "confidence": 0.83392614,
+        "language": "tnc"
+    },
+    "tnc-10-89.wav": {
+        "text": "father's brother",
+        "confidence": 0.9638769,
+        "language": "eng"
+    },
+    "tnc-07-9.wav": {
+        "text": "Hotel cast in",
+        "confidence": 0.73433447,
+        "language": "tnc"
+    },
+    "tnc-14-3.wav": {
+        "text": "Hogan's",
+        "confidence": 0.83776033,
+        "language": "tnc"
+    },
+    "tnc-25-26.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-76.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-52.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-145.wav": {
+        "text": "say",
+        "confidence": 0.93535191,
+        "language": "eng"
+    },
+    "tnc-10-151.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-46.wav": {
+        "text": "not is not",
+        "confidence": 0.80117506,
+        "language": "tnc"
+    },
+    "tnc-10-62.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-04-17.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-03-22.wav": {
+        "text": "I'm trying",
+        "confidence": 0.63474953,
+        "language": "tnc"
+    },
+    "tnc-09-6.wav": {
+        "text": "now is",
+        "confidence": 0.61790049,
+        "language": "tnc"
+    },
+    "tnc-21-42.wav": {
+        "text": "my hookah",
+        "confidence": 0.89035064,
+        "language": "tnc"
+    },
+    "tnc-23-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-1.wav": {
+        "text": "place",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-12.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-13-27.wav": {
+        "text": "the Copper River people arrive",
+        "confidence": 0.96903914,
+        "language": "eng"
+    },
+    "tnc-13-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-46.wav": {
+        "text": "Tina plug at the day in teach me",
+        "confidence": 0.89397478,
+        "language": "tnc"
+    },
+    "tnc-13-32.wav": {
+        "text": "yeah",
+        "confidence": 0.95473135,
+        "language": "eng"
+    },
+    "tnc-13-26.wav": {
+        "text": "yeah",
+        "confidence": 0.79546231,
+        "language": "tnc"
+    },
+    "tnc-14-13.wav": {
+        "text": "it's raining",
+        "confidence": 0.96686506,
+        "language": "eng"
+    },
+    "tnc-23-9.wav": {
+        "text": "SE",
+        "confidence": 0.56246954,
+        "language": "tnc"
+    },
+    "tnc-09-7.wav": {
+        "text": "number three",
+        "confidence": 0.90402257,
+        "language": "eng"
+    },
+    "tnc-03-23.wav": {
+        "text": "number 8 I don't know he's not here",
+        "confidence": 0.93988788,
+        "language": "eng"
+    },
+    "tnc-19-47.wav": {
+        "text": "Nash",
+        "confidence": 0.870336,
+        "language": "tnc"
+    },
+    "tnc-10-150.wav": {
+        "text": "number 26 boy",
+        "confidence": 0.92660242,
+        "language": "eng"
+    },
+    "tnc-04-16.wav": {
+        "text": "Natsu",
+        "confidence": 0.72763681,
+        "language": "tnc"
+    },
+    "tnc-10-63.wav": {
+        "text": "his or her younger brother",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-77.wav": {
+        "text": "number 14",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-144.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-53.wav": {
+        "text": "I'm drinking",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-2.wav": {
+        "text": "number one how is the weather",
+        "confidence": 0.96847421,
+        "language": "eng"
+    },
+    "tnc-25-27.wav": {
+        "text": "number 13 GR",
+        "confidence": 0.97113186,
+        "language": "eng"
+    },
+    "tnc-10-88.wav": {
+        "text": "my uncle",
+        "confidence": 0.90938056,
+        "language": "eng"
+    },
+    "tnc-25-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-8.wav": {
+        "text": "number four I'm from tanac",
+        "confidence": 0.9145937,
+        "language": "eng"
+    },
+    "tnc-22-12.wav": {
+        "text": "would say Hindu she had to tell if number three moose",
+        "confidence": 0.88343203,
+        "language": "eng"
+    },
+    "tnc-29-2.wav": {
+        "text": "letter c",
+        "confidence": 0.93553042,
+        "language": "eng"
+    },
+    "tnc-01-26.wav": {
+        "text": "number nine thank you",
+        "confidence": 0.88759571,
+        "language": "eng"
+    },
+    "tnc-01-32.wav": {
+        "text": "number 12",
+        "confidence": 0.84157073,
+        "language": "eng"
+    },
+    "tnc-06-13.wav": {
+        "text": "I'm not thirsty",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-27-22.wav": {
+        "text": "grizzly bears are brown",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-4.wav": {
+        "text": "neon did she hun",
+        "confidence": 0.95218432,
+        "language": "eng"
+    },
+    "tnc-29-33.wav": {
+        "text": "occur in English but are not found at the beginning of English",
+        "confidence": 0.96790642,
+        "language": "eng"
+    },
+    "tnc-20-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-27.wav": {
+        "text": "la",
+        "confidence": 0.70158106,
+        "language": "tnc"
+    },
+    "tnc-05-42.wav": {
+        "text": "number nine",
+        "confidence": 0.87933344,
+        "language": "eng"
+    },
+    "tnc-11-37.wav": {
+        "text": "a bridge spanned across the",
+        "confidence": 0.94698876,
+        "language": "eng"
+    },
+    "tnc-18-13.wav": {
+        "text": "got done don't you think",
+        "confidence": 0.83432579,
+        "language": "tnc"
+    },
+    "tnc-11-23.wav": {
+        "text": "there's snow on the mountain",
+        "confidence": 0.97037238,
+        "language": "eng"
+    },
+    "tnc-16-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-114.wav": {
+        "text": "a n",
+        "confidence": 0.61540341,
+        "language": "tnc"
+    },
+    "tnc-10-6.wav": {
+        "text": "Nick",
+        "confidence": 0.62472558,
+        "language": "tnc"
+    },
+    "tnc-29-100.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-116.wav": {
+        "text": "you",
+        "confidence": 0.56947637,
+        "language": "tnc"
+    },
+    "tnc-29-102.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-4.wav": {
+        "text": "she",
+        "confidence": 0.69287312,
+        "language": "tnc"
+    },
+    "tnc-16-14.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-39.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-35.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-40.wav": {
+        "text": "dry",
+        "confidence": 0.60751289,
+        "language": "tnc"
+    },
+    "tnc-11-21.wav": {
+        "text": "number five Mountain",
+        "confidence": 0.93534994,
+        "language": "eng"
+    },
+    "tnc-16-28.wav": {
+        "text": "kitchen hutchining",
+        "confidence": 0.92106879,
+        "language": "eng"
+    },
+    "tnc-20-15.wav": {
+        "text": "texting test",
+        "confidence": 0.71591389,
+        "language": "tnc"
+    },
+    "tnc-29-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-25.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-29.wav": {
+        "text": "number nine",
+        "confidence": 0.89266944,
+        "language": "eng"
+    },
+    "tnc-27-20.wav": {
+        "text": "yellow and brown",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-6.wav": {
+        "text": "yes I am learning it",
+        "confidence": 0.84830177,
+        "language": "tnc"
+    },
+    "tnc-01-18.wav": {
+        "text": "number",
+        "confidence": 0.96731472,
+        "language": "eng"
+    },
+    "tnc-06-11.wav": {
+        "text": "yes I'm thirsty",
+        "confidence": 0.97192502,
+        "language": "eng"
+    },
+    "tnc-01-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-08-14.wav": {
+        "text": "finish",
+        "confidence": 0.55850762,
+        "language": "tnc"
+    },
+    "tnc-06-39.wav": {
+        "text": "I have a stomach",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-01-30.wav": {
+        "text": "number 11 take care be careful",
+        "confidence": 0.95399255,
+        "language": "eng"
+    },
+    "tnc-25-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-25.wav": {
+        "text": "number 12 spruce",
+        "confidence": 0.97175509,
+        "language": "eng"
+    },
+    "tnc-21-9.wav": {
+        "text": "he's hunting with a gun",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-38.wav": {
+        "text": "Fox is Cle",
+        "confidence": 0.9145422,
+        "language": "eng"
+    },
+    "tnc-25-31.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-61.wav": {
+        "text": "your younger brother",
+        "confidence": 0.94190121,
+        "language": "eng"
+    },
+    "tnc-04-14.wav": {
+        "text": "dun",
+        "confidence": 0.70636725,
+        "language": "tnc"
+    },
+    "tnc-10-152.wav": {
+        "text": "little boy",
+        "confidence": 0.89669192,
+        "language": "tnc"
+    },
+    "tnc-19-45.wav": {
+        "text": "blackberries grow on the",
+        "confidence": 0.96975988,
+        "language": "eng"
+    },
+    "tnc-19-51.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-146.wav": {
+        "text": "25",
+        "confidence": 0.95854133,
+        "language": "eng"
+    },
+    "tnc-10-75.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-21.wav": {
+        "text": "where's your grandchild",
+        "confidence": 0.8967495,
+        "language": "tnc"
+    },
+    "tnc-09-5.wav": {
+        "text": "number two I'm getting dress",
+        "confidence": 0.94601935,
+        "language": "eng"
+    },
+    "tnc-10-49.wav": {
+        "text": "his or her younger sister",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-16-2.wav": {
+        "text": "number one Santa",
+        "confidence": 0.81465691,
+        "language": "eng"
+    },
+    "tnc-21-41.wav": {
+        "text": "build a snare for it",
+        "confidence": 0.96424198,
+        "language": "eng"
+    },
+    "tnc-05-8.wav": {
+        "text": "I'm sew",
+        "confidence": 0.95689452,
+        "language": "eng"
+    },
+    "tnc-14-11.wav": {
+        "text": "fuck was Jose",
+        "confidence": 0.85293287,
+        "language": "tnc"
+    },
+    "tnc-13-18.wav": {
+        "text": "moose are walking around down by the river",
+        "confidence": 0.97117335,
+        "language": "eng"
+    },
+    "tnc-13-30.wav": {
+        "text": "yeah",
+        "confidence": 0.56994212,
+        "language": "tnc"
+    },
+    "tnc-07-45.wav": {
+        "text": "number 18 I write letters to people",
+        "confidence": 0.97178757,
+        "language": "eng"
+    },
+    "tnc-14-39.wav": {
+        "text": "Chef Nick at home",
+        "confidence": 0.85084367,
+        "language": "tnc"
+    },
+    "tnc-13-24.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-13-25.wav": {
+        "text": "away over there",
+        "confidence": 0.95705724,
+        "language": "eng"
+    },
+    "tnc-07-44.wav": {
+        "text": "a shagging City in",
+        "confidence": 0.87896854,
+        "language": "tnc"
+    },
+    "tnc-13-31.wav": {
+        "text": "they went back down that way",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-38.wav": {
+        "text": "number 13 there's snow on the ground",
+        "confidence": 0.94714612,
+        "language": "eng"
+    },
+    "tnc-14-10.wav": {
+        "text": "it's not cloud",
+        "confidence": 0.97080237,
+        "language": "eng"
+    },
+    "tnc-13-19.wav": {
+        "text": "YouTube didn't take a",
+        "confidence": 0.71268773,
+        "language": "tnc"
+    },
+    "tnc-05-9.wav": {
+        "text": "not Jenny",
+        "confidence": 0.86737895,
+        "language": "tnc"
+    },
+    "tnc-16-3.wav": {
+        "text": "that's all",
+        "confidence": 0.70365107,
+        "language": "tnc"
+    },
+    "tnc-21-40.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-48.wav": {
+        "text": "your younger sister",
+        "confidence": 0.95123798,
+        "language": "eng"
+    },
+    "tnc-09-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-20.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-147.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-50.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-74.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-04-15.wav": {
+        "text": "number 6 let's go",
+        "confidence": 0.904347,
+        "language": "eng"
+    },
+    "tnc-10-60.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-44.wav": {
+        "text": "not",
+        "confidence": 0.66815054,
+        "language": "tnc"
+    },
+    "tnc-10-153.wav": {
+        "text": "t",
+        "confidence": 0.59132022,
+        "language": "tnc"
+    },
+    "tnc-22-39.wav": {
+        "text": "knock at home",
+        "confidence": 0.85323507,
+        "language": "tnc"
+    },
+    "tnc-25-30.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-18.wav": {
+        "text": "number nine",
+        "confidence": 0.91007102,
+        "language": "eng"
+    },
+    "tnc-22-11.wav": {
+        "text": "caribou live in the forest in winter",
+        "confidence": 0.97049999,
+        "language": "eng"
+    },
+    "tnc-06-38.wav": {
+        "text": "Michelle",
+        "confidence": 0.57752126,
+        "language": "tnc"
+    },
+    "tnc-01-31.wav": {
+        "text": "suit",
+        "confidence": 0.60872489,
+        "language": "tnc"
+    },
+    "tnc-29-1.wav": {
+        "text": "sounds which are pronounced as in English",
+        "confidence": 0.9716934,
+        "language": "eng"
+    },
+    "tnc-01-25.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-19.wav": {
+        "text": "give it to me",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-10.wav": {
+        "text": "tuned",
+        "confidence": 0.50359875,
+        "language": "tnc"
+    },
+    "tnc-29-18.wav": {
+        "text": "letter t",
+        "confidence": 0.90269208,
+        "language": "eng"
+    },
+    "tnc-12-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-21.wav": {
+        "text": "games",
+        "confidence": 0.68579751,
+        "language": "tnc"
+    },
+    "tnc-29-24.wav": {
+        "text": "letter G",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-14.wav": {
+        "text": "chop some",
+        "confidence": 0.96265852,
+        "language": "eng"
+    },
+    "tnc-29-30.wav": {
+        "text": "letter w",
+        "confidence": 0.95302212,
+        "language": "eng"
+    },
+    "tnc-11-20.wav": {
+        "text": "to this text",
+        "confidence": 0.85981256,
+        "language": "tnc"
+    },
+    "tnc-16-29.wav": {
+        "text": "number 13 10:00 Mountain",
+        "confidence": 0.86063647,
+        "language": "eng"
+    },
+    "tnc-18-10.wav": {
+        "text": "number three yesterday",
+        "confidence": 0.91364694,
+        "language": "eng"
+    },
+    "tnc-05-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-34.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-18-38.wav": {
+        "text": "number nine Christmas",
+        "confidence": 0.91206008,
+        "language": "eng"
+    },
+    "tnc-16-15.wav": {
+        "text": "number seven Tanana River",
+        "confidence": 0.86707586,
+        "language": "eng"
+    },
+    "tnc-10-5.wav": {
+        "text": "our Rel",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-103.wav": {
+        "text": "letter",
+        "confidence": 0.96608847,
+        "language": "eng"
+    },
+    "tnc-29-117.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-113.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-48.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-8.wav": {
+        "text": "number four will",
+        "confidence": 0.88979912,
+        "language": "eng"
+    },
+    "tnc-29-107.wav": {
+        "text": "letter u",
+        "confidence": 0.92540169,
+        "language": "eng"
+    },
+    "tnc-10-1.wav": {
+        "text": "relatives and people",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-30.wav": {
+        "text": "number seven Trail Road",
+        "confidence": 0.88839358,
+        "language": "eng"
+    },
+    "tnc-05-45.wav": {
+        "text": "what do you all want to eat",
+        "confidence": 0.96890229,
+        "language": "eng"
+    },
+    "tnc-16-39.wav": {
+        "text": "number 18 Sam",
+        "confidence": 0.93106622,
+        "language": "eng"
+    },
+    "tnc-18-14.wav": {
+        "text": "number for a while ago",
+        "confidence": 0.91660416,
+        "language": "eng"
+    },
+    "tnc-05-51.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-28.wav": {
+        "text": "number seven",
+        "confidence": 0.863271,
+        "language": "eng"
+    },
+    "tnc-16-11.wav": {
+        "text": "Ketchum",
+        "confidence": 0.88280672,
+        "language": "tnc"
+    },
+    "tnc-11-18.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-25.wav": {
+        "text": "tell",
+        "confidence": 0.57815278,
+        "language": "tnc"
+    },
+    "tnc-01-9.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-3.wav": {
+        "text": "do you speak native language",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-38.wav": {
+        "text": "escort Airport",
+        "confidence": 0.74727321,
+        "language": "tnc"
+    },
+    "tnc-29-34.wav": {
+        "text": "letter t",
+        "confidence": 0.95794243,
+        "language": "eng"
+    },
+    "tnc-27-19.wav": {
+        "text": "number",
+        "confidence": 0.97101212,
+        "language": "eng"
+    },
+    "tnc-20-10.wav": {
+        "text": "County",
+        "confidence": 0.61724371,
+        "language": "tnc"
+    },
+    "tnc-29-20.wav": {
+        "text": "letter y",
+        "confidence": 0.84846246,
+        "language": "tnc"
+    },
+    "tnc-06-28.wav": {
+        "text": "number five do you have a headache",
+        "confidence": 0.94974428,
+        "language": "eng"
+    },
+    "tnc-01-21.wav": {
+        "text": "give it to me",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-5.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-35.wav": {
+        "text": "number 13",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-49.wav": {
+        "text": "nunchucks",
+        "confidence": 0.90027702,
+        "language": "eng"
+    },
+    "tnc-08-11.wav": {
+        "text": "7 Mile Health Tech and",
+        "confidence": 0.93036288,
+        "language": "eng"
+    },
+    "tnc-06-14.wav": {
+        "text": "go to",
+        "confidence": 0.71485937,
+        "language": "tnc"
+    },
+    "tnc-14-5.wav": {
+        "text": "hey setting",
+        "confidence": 0.81813109,
+        "language": "tnc"
+    },
+    "tnc-22-29.wav": {
+        "text": "Chilito",
+        "confidence": 0.8831656,
+        "language": "tnc"
+    },
+    "tnc-25-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-34.wav": {
+        "text": "number 16 pussy will",
+        "confidence": 0.94289255,
+        "language": "eng"
+    },
+    "tnc-22-15.wav": {
+        "text": "Maine",
+        "confidence": 0.43494666,
+        "language": "tnc"
+    },
+    "tnc-03-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-58.wav": {
+        "text": "number 11",
+        "confidence": 0.96258116,
+        "language": "eng"
+    },
+    "tnc-19-68.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-157.wav": {
+        "text": "say",
+        "confidence": 0.66550773,
+        "language": "tnc"
+    },
+    "tnc-03-18.wav": {
+        "text": "I'm just resting",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-40.wav": {
+        "text": "nothing",
+        "confidence": 0.70967442,
+        "language": "tnc"
+    },
+    "tnc-10-64.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-04-11.wav": {
+        "text": "number four speak slow",
+        "confidence": 0.91535306,
+        "language": "eng"
+    },
+    "tnc-10-70.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-54.wav": {
+        "text": "delish",
+        "confidence": 0.73020667,
+        "language": "tnc"
+    },
+    "tnc-10-143.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-7.wav": {
+        "text": "intas",
+        "confidence": 0.66926998,
+        "language": "tnc"
+    },
+    "tnc-07-40.wav": {
+        "text": "number 16 I work at the school",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-13-21.wav": {
+        "text": "Young",
+        "confidence": 0.95269841,
+        "language": "eng"
+    },
+    "tnc-18-8.wav": {
+        "text": "I'm going to go back to Fairbanks tomorrow",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-14-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-14.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-15.wav": {
+        "text": "it's not raining",
+        "confidence": 0.97094959,
+        "language": "eng"
+    },
+    "tnc-18-9.wav": {
+        "text": "found it Fairbanks sitting at the",
+        "confidence": 0.90756267,
+        "language": "eng"
+    },
+    "tnc-13-20.wav": {
+        "text": "number five area across",
+        "confidence": 0.92319942,
+        "language": "eng"
+    },
+    "tnc-14-29.wav": {
+        "text": "number nine it's fo",
+        "confidence": 0.8981213,
+        "language": "eng"
+    },
+    "tnc-07-41.wav": {
+        "text": "Hospital Thrift Shop DJ is",
+        "confidence": 0.88806713,
+        "language": "tnc"
+    },
+    "tnc-16-6.wav": {
+        "text": "number three Dot",
+        "confidence": 0.89294797,
+        "language": "eng"
+    },
+    "tnc-10-71.wav": {
+        "text": "number 13 my",
+        "confidence": 0.97188038,
+        "language": "eng"
+    },
+    "tnc-10-142.wav": {
+        "text": "number 24 woman",
+        "confidence": 0.97058231,
+        "language": "eng"
+    },
+    "tnc-19-55.wav": {
+        "text": "number 16 hot beverage",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-41.wav": {
+        "text": "number 12 raspberry",
+        "confidence": 0.97095084,
+        "language": "eng"
+    },
+    "tnc-03-19.wav": {
+        "text": "nagas",
+        "confidence": 0.77860433,
+        "language": "tnc"
+    },
+    "tnc-10-156.wav": {
+        "text": "little",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-04-10.wav": {
+        "text": "hey houd",
+        "confidence": 0.8950175,
+        "language": "tnc"
+    },
+    "tnc-10-65.wav": {
+        "text": "number 12 my husband",
+        "confidence": 0.97190344,
+        "language": "eng"
+    },
+    "tnc-19-69.wav": {
+        "text": "number",
+        "confidence": 0.97128963,
+        "language": "eng"
+    },
+    "tnc-09-1.wav": {
+        "text": "clothing",
+        "confidence": 0.96971893,
+        "language": "eng"
+    },
+    "tnc-03-25.wav": {
+        "text": "number nine see you tomorrow",
+        "confidence": 0.88544303,
+        "language": "eng"
+    },
+    "tnc-10-59.wav": {
+        "text": "my younger brother",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-14.wav": {
+        "text": "bull",
+        "confidence": 0.68578088,
+        "language": "tnc"
+    },
+    "tnc-25-35.wav": {
+        "text": "Kelly",
+        "confidence": 0.69897753,
+        "language": "tnc"
+    },
+    "tnc-22-28.wav": {
+        "text": "grizzly bear is strong",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-4.wav": {
+        "text": "number two it's",
+        "confidence": 0.93290281,
+        "language": "eng"
+    },
+    "tnc-25-21.wav": {
+        "text": "number 10 spruce",
+        "confidence": 0.97046441,
+        "language": "eng"
+    },
+    "tnc-06-15.wav": {
+        "text": "number three are you tired",
+        "confidence": 0.93886042,
+        "language": "eng"
+    },
+    "tnc-01-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-08-10.wav": {
+        "text": "but I was raised in tan",
+        "confidence": 0.96175736,
+        "language": "eng"
+    },
+    "tnc-12-48.wav": {
+        "text": "that's my father",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-4.wav": {
+        "text": "letter",
+        "confidence": 0.97152615,
+        "language": "eng"
+    },
+    "tnc-01-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-21.wav": {
+        "text": "yet",
+        "confidence": 0.68613517,
+        "language": "tnc"
+    },
+    "tnc-27-18.wav": {
+        "text": "chain tattoo place",
+        "confidence": 0.74691319,
+        "language": "tnc"
+    },
+    "tnc-29-35.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-11.wav": {
+        "text": "number three",
+        "confidence": 0.884987,
+        "language": "eng"
+    },
+    "tnc-20-39.wav": {
+        "text": "number",
+        "confidence": 0.69674468,
+        "language": "eng"
+    },
+    "tnc-12-2.wav": {
+        "text": "number one",
+        "confidence": 0.91991603,
+        "language": "eng"
+    },
+    "tnc-27-24.wav": {
+        "text": "number six",
+        "confidence": 0.83620411,
+        "language": "eng"
+    },
+    "tnc-01-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-10.wav": {
+        "text": "number five",
+        "confidence": 0.77015197,
+        "language": "eng"
+    },
+    "tnc-11-19.wav": {
+        "text": "he went over a mountain pass",
+        "confidence": 0.9541297,
+        "language": "eng"
+    },
+    "tnc-18-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-25.wav": {
+        "text": "desk at",
+        "confidence": 0.79735833,
+        "language": "tnc"
+    },
+    "tnc-05-50.wav": {
+        "text": "right here",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-44.wav": {
+        "text": "Dino watching",
+        "confidence": 0.91085947,
+        "language": "eng"
+    },
+    "tnc-11-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-15.wav": {
+        "text": "Kat",
+        "confidence": 0.71260142,
+        "language": "tnc"
+    },
+    "tnc-16-38.wav": {
+        "text": "show station",
+        "confidence": 0.73969525,
+        "language": "tnc"
+    },
+    "tnc-29-106.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-9.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-112.wav": {
+        "text": "Valen",
+        "confidence": 0.82311487,
+        "language": "tnc"
+    },
+    "tnc-29-104.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-2.wav": {
+        "text": "number one my Rel",
+        "confidence": 0.96664047,
+        "language": "eng"
+    },
+    "tnc-03-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-110.wav": {
+        "text": "Val eye",
+        "confidence": 0.78113359,
+        "language": "tnc"
+    },
+    "tnc-05-52.wav": {
+        "text": "there are the matches",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-17.wav": {
+        "text": "Adidas",
+        "confidence": 0.92494231,
+        "language": "eng"
+    },
+    "tnc-11-33.wav": {
+        "text": "hey",
+        "confidence": 0.53910339,
+        "language": "tnc"
+    },
+    "tnc-05-46.wav": {
+        "text": "T-Mobile Athen",
+        "confidence": 0.84497714,
+        "language": "tnc"
+    },
+    "tnc-16-12.wav": {
+        "text": "circus",
+        "confidence": 0.71543372,
+        "language": "tnc"
+    },
+    "tnc-27-9.wav": {
+        "text": "that is a",
+        "confidence": 0.90273982,
+        "language": "eng"
+    },
+    "tnc-27-26.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-23.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-08-12.wav": {
+        "text": "no that's all",
+        "confidence": 0.78950834,
+        "language": "tnc"
+    },
+    "tnc-01-36.wav": {
+        "text": "okay",
+        "confidence": 0.96244568,
+        "language": "eng"
+    },
+    "tnc-01-22.wav": {
+        "text": "get sh",
+        "confidence": 0.66699338,
+        "language": "tnc"
+    },
+    "tnc-29-6.wav": {
+        "text": "letter d",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-17.wav": {
+        "text": "yes I'm tired",
+        "confidence": 0.9712956,
+        "language": "eng"
+    },
+    "tnc-25-37.wav": {
+        "text": "stinging nettle",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-98.wav": {
+        "text": "sister-in",
+        "confidence": 0.93814188,
+        "language": "eng"
+    },
+    "tnc-25-23.wav": {
+        "text": "number 11 spruce",
+        "confidence": 0.96294165,
+        "language": "eng"
+    },
+    "tnc-14-6.wav": {
+        "text": "it's not",
+        "confidence": 0.96442682,
+        "language": "eng"
+    },
+    "tnc-22-16.wav": {
+        "text": "cow",
+        "confidence": 0.71517265,
+        "language": "tnc"
+    },
+    "tnc-10-168.wav": {
+        "text": "old woman",
+        "confidence": 0.9528079,
+        "language": "eng"
+    },
+    "tnc-09-3.wav": {
+        "text": "clothing",
+        "confidence": 0.96652806,
+        "language": "eng"
+    },
+    "tnc-19-57.wav": {
+        "text": "would you like a hot beverage",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-140.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-73.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-67.wav": {
+        "text": "your husband",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-04-12.wav": {
+        "text": "hahah",
+        "confidence": 0.68450844,
+        "language": "tnc"
+    },
+    "tnc-10-154.wav": {
+        "text": "number 27 girl",
+        "confidence": 0.94143009,
+        "language": "eng"
+    },
+    "tnc-19-43.wav": {
+        "text": "number 13 blackberries",
+        "confidence": 0.95315295,
+        "language": "eng"
+    },
+    "tnc-16-4.wav": {
+        "text": "number two mans",
+        "confidence": 0.92260438,
+        "language": "eng"
+    },
+    "tnc-13-22.wav": {
+        "text": "I live across the river",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-43.wav": {
+        "text": "what do you do there",
+        "confidence": 0.97172099,
+        "language": "eng"
+    },
+    "tnc-14-17.wav": {
+        "text": "number five it's snowing",
+        "confidence": 0.9301272,
+        "language": "eng"
+    },
+    "tnc-14-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-42.wav": {
+        "text": "number 17",
+        "confidence": 0.96947348,
+        "language": "eng"
+    },
+    "tnc-13-23.wav": {
+        "text": "you understand",
+        "confidence": 0.59877807,
+        "language": "tnc"
+    },
+    "tnc-16-5.wav": {
+        "text": "he",
+        "confidence": 0.52899593,
+        "language": "tnc"
+    },
+    "tnc-04-13.wav": {
+        "text": "number five come in",
+        "confidence": 0.90202028,
+        "language": "eng"
+    },
+    "tnc-10-66.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-42.wav": {
+        "text": "Don",
+        "confidence": 0.7079888,
+        "language": "tnc"
+    },
+    "tnc-10-155.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-141.wav": {
+        "text": "10",
+        "confidence": 0.64343858,
+        "language": "tnc"
+    },
+    "tnc-19-56.wav": {
+        "text": "to n",
+        "confidence": 0.71822017,
+        "language": "tnc"
+    },
+    "tnc-10-72.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-09-2.wav": {
+        "text": "number one",
+        "confidence": 0.92012548,
+        "language": "eng"
+    },
+    "tnc-03-26.wav": {
+        "text": "back down didn't",
+        "confidence": 0.68081933,
+        "language": "tnc"
+    },
+    "tnc-10-169.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-17.wav": {
+        "text": "dish",
+        "confidence": 0.62536561,
+        "language": "tnc"
+    },
+    "tnc-25-22.wav": {
+        "text": "chill",
+        "confidence": 0.44419381,
+        "language": "tnc"
+    },
+    "tnc-10-99.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-7.wav": {
+        "text": "okay set",
+        "confidence": 0.49234387,
+        "language": "tnc"
+    },
+    "tnc-25-36.wav": {
+        "text": "number 17",
+        "confidence": 0.97180927,
+        "language": "eng"
+    },
+    "tnc-06-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-23.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-08-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-12.wav": {
+        "text": "fire",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-36.wav": {
+        "text": "letter d",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-22.wav": {
+        "text": "letter",
+        "confidence": 0.94119579,
+        "language": "eng"
+    },
+    "tnc-27-27.wav": {
+        "text": "in the fall the sky is always",
+        "confidence": 0.96882677,
+        "language": "eng"
+    },
+    "tnc-27-8.wav": {
+        "text": "my hands are black with charcoal",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-1.wav": {
+        "text": "General dialog",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-16-13.wav": {
+        "text": "number 6 North",
+        "confidence": 0.88390201,
+        "language": "eng"
+    },
+    "tnc-18-16.wav": {
+        "text": "I ate a little while ago",
+        "confidence": 0.96170825,
+        "language": "eng"
+    },
+    "tnc-05-47.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-32.wav": {
+        "text": "I'm walking along the trail",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-26.wav": {
+        "text": "number six",
+        "confidence": 0.85685623,
+        "language": "eng"
+    },
+    "tnc-05-53.wav": {
+        "text": "magical",
+        "confidence": 0.60728455,
+        "language": "tnc"
+    },
+    "tnc-29-111.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-9.wav": {
+        "text": "number three",
+        "confidence": 0.89910322,
+        "language": "eng"
+    },
+    "tnc-10-3.wav": {
+        "text": "my",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-105.wav": {
+        "text": "letter u",
+        "confidence": 0.92038512,
+        "language": "eng"
+    },
+    "tnc-23-18.wav": {
+        "text": "number seven",
+        "confidence": 0.84084481,
+        "language": "eng"
+    },
+    "tnc-24-11.wav": {
+        "text": "number four",
+        "confidence": 0.90686643,
+        "language": "eng"
+    },
+    "tnc-24-39.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-17-2.wav": {
+        "text": "number one",
+        "confidence": 0.96219933,
+        "language": "eng"
+    },
+    "tnc-04-8.wav": {
+        "text": "candy",
+        "confidence": 0.53873795,
+        "language": "tnc"
+    },
+    "tnc-02-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-34.wav": {
+        "text": "number 8 what shall we",
+        "confidence": 0.93651086,
+        "language": "eng"
+    },
+    "tnc-02-29.wav": {
+        "text": "coach",
+        "confidence": 0.57241231,
+        "language": "tnc"
+    },
+    "tnc-05-20.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-55.wav": {
+        "text": "number 12 r",
+        "confidence": 0.96539849,
+        "language": "eng"
+    },
+    "tnc-29-45.wav": {
+        "text": "vac",
+        "confidence": 0.388749,
+        "language": "tnc"
+    },
+    "tnc-20-61.wav": {
+        "text": "the children are sliding down the hill in a sled",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-20-75.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-51.wav": {
+        "text": "letter t t h",
+        "confidence": 0.93805707,
+        "language": "eng"
+    },
+    "tnc-29-79.wav": {
+        "text": "to indicate that a sound begins voiceless and becomes voice as it's pron",
+        "confidence": 0.93507862,
+        "language": "eng"
+    },
+    "tnc-20-9.wav": {
+        "text": "build a fire",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-49.wav": {
+        "text": "number 13 BL",
+        "confidence": 0.97126794,
+        "language": "eng"
+    },
+    "tnc-12-10.wav": {
+        "text": "do you hear",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-86.wav": {
+        "text": "letter s h underscore",
+        "confidence": 0.92718613,
+        "language": "eng"
+    },
+    "tnc-15-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-92.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-08-5.wav": {
+        "text": "20",
+        "confidence": 0.96891558,
+        "language": "eng"
+    },
+    "tnc-15-25.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-31.wav": {
+        "text": "Mr Daniel",
+        "confidence": 0.68922687,
+        "language": "tnc"
+    },
+    "tnc-12-38.wav": {
+        "text": "I'm coming from my workplace",
+        "confidence": 0.95949256,
+        "language": "eng"
+    },
+    "tnc-22-64.wav": {
+        "text": "to connect at the",
+        "confidence": 0.77055275,
+        "language": "tnc"
+    },
+    "tnc-22-70.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-58.wav": {
+        "text": "Minx feet look like",
+        "confidence": 0.889054,
+        "language": "tnc"
+    },
+    "tnc-13-6.wav": {
+        "text": "there's a hill up above here",
+        "confidence": 0.96910304,
+        "language": "eng"
+    },
+    "tnc-10-126.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-31.wav": {
+        "text": "number 8 low Bush cranberry",
+        "confidence": 0.90605032,
+        "language": "eng"
+    },
+    "tnc-10-15.wav": {
+        "text": "my father",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-25.wav": {
+        "text": "to section",
+        "confidence": 0.88068956,
+        "language": "tnc"
+    },
+    "tnc-10-132.wav": {
+        "text": "my sib",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-17-20.wav": {
+        "text": "dang tattoo naile",
+        "confidence": 0.91672975,
+        "language": "eng"
+    },
+    "tnc-10-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-14.wav": {
+        "text": "number five where are you coming from",
+        "confidence": 0.94838059,
+        "language": "eng"
+    },
+    "tnc-28-39.wav": {
+        "text": "when are you coming back",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-21-35.wav": {
+        "text": "Caribou SN",
+        "confidence": 0.91740733,
+        "language": "eng"
+    },
+    "tnc-28-11.wav": {
+        "text": "number five no I'm going with my father",
+        "confidence": 0.93987459,
+        "language": "eng"
+    },
+    "tnc-26-28.wav": {
+        "text": "number 11",
+        "confidence": 0.91370255,
+        "language": "eng"
+    },
+    "tnc-21-21.wav": {
+        "text": "chin",
+        "confidence": 0.65795803,
+        "language": "tnc"
+    },
+    "tnc-11-4.wav": {
+        "text": "we live on the land",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-09-20.wav": {
+        "text": "number 6",
+        "confidence": 0.82521343,
+        "language": "eng"
+    },
+    "tnc-07-19.wav": {
+        "text": "9 Destin",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-09-34.wav": {
+        "text": "handkerchief",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-65.wav": {
+        "text": "screenshot on this Army",
+        "confidence": 0.65848345,
+        "language": "tnc"
+    },
+    "tnc-07-31.wav": {
+        "text": "where do you live now",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-25.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-59.wav": {
+        "text": "we can see the moon real well at night",
+        "confidence": 0.97098446,
+        "language": "eng"
+    },
+    "tnc-07-24.wav": {
+        "text": "naughty hardest thing in",
+        "confidence": 0.88215947,
+        "language": "tnc"
+    },
+    "tnc-14-58.wav": {
+        "text": "health",
+        "confidence": 0.61751425,
+        "language": "tnc"
+    },
+    "tnc-07-30.wav": {
+        "text": "number 12",
+        "confidence": 0.95187229,
+        "language": "eng"
+    },
+    "tnc-09-35.wav": {
+        "text": "Tony",
+        "confidence": 0.47292838,
+        "language": "tnc"
+    },
+    "tnc-07-18.wav": {
+        "text": "where were your parents from originally",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-64.wav": {
+        "text": "after it rains you will see a rainbow",
+        "confidence": 0.96876001,
+        "language": "eng"
+    },
+    "tnc-14-70.wav": {
+        "text": "jacket natural",
+        "confidence": 0.86921597,
+        "language": "tnc"
+    },
+    "tnc-09-21.wav": {
+        "text": "moccasins shoes",
+        "confidence": 0.94222003,
+        "language": "eng"
+    },
+    "tnc-26-29.wav": {
+        "text": "I work at the school I am a teacher",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-11-5.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-20.wav": {
+        "text": "scraper tool root",
+        "confidence": 0.9670946,
+        "language": "eng"
+    },
+    "tnc-21-34.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-28-10.wav": {
+        "text": "man",
+        "confidence": 0.6861639,
+        "language": "tnc"
+    },
+    "tnc-28-38.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-26-15.wav": {
+        "text": "Dancing Queen",
+        "confidence": 0.74636769,
+        "language": "tnc"
+    },
+    "tnc-19-18.wav": {
+        "text": "number five dried fish",
+        "confidence": 0.87431425,
+        "language": "eng"
+    },
+    "tnc-17-21.wav": {
+        "text": "number four",
+        "confidence": 0.84046137,
+        "language": "eng"
+    },
+    "tnc-28-1.wav": {
+        "text": "camp",
+        "confidence": 0.97056735,
+        "language": "eng"
+    },
+    "tnc-10-28.wav": {
+        "text": "my grandmother",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-133.wav": {
+        "text": "just sending",
+        "confidence": 0.70052922,
+        "language": "tnc"
+    },
+    "tnc-19-24.wav": {
+        "text": "I like",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-30.wav": {
+        "text": "dragon",
+        "confidence": 0.47758576,
+        "language": "tnc"
+    },
+    "tnc-10-127.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-14.wav": {
+        "text": "number three",
+        "confidence": 0.89829648,
+        "language": "eng"
+    },
+    "tnc-13-7.wav": {
+        "text": "young dog shit take",
+        "confidence": 0.90336633,
+        "language": "eng"
+    },
+    "tnc-22-59.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-71.wav": {
+        "text": "porcupines have sharp quill",
+        "confidence": 0.96912789,
+        "language": "eng"
+    },
+    "tnc-22-65.wav": {
+        "text": "number 14",
+        "confidence": 0.97120363,
+        "language": "eng"
+    },
+    "tnc-15-30.wav": {
+        "text": "number 9 9",
+        "confidence": 0.72851753,
+        "language": "eng"
+    },
+    "tnc-12-39.wav": {
+        "text": "eastendershot and her",
+        "confidence": 0.80711728,
+        "language": "tnc"
+    },
+    "tnc-08-4.wav": {
+        "text": "number two I'm 20 years old",
+        "confidence": 0.93358308,
+        "language": "eng"
+    },
+    "tnc-15-24.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-93.wav": {
+        "text": "letter",
+        "confidence": 0.91728598,
+        "language": "eng"
+    },
+    "tnc-29-87.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-11.wav": {
+        "text": "or understand me",
+        "confidence": 0.95647222,
+        "language": "eng"
+    },
+    "tnc-15-18.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-48.wav": {
+        "text": "the testic",
+        "confidence": 0.7959311,
+        "language": "tnc"
+    },
+    "tnc-20-8.wav": {
+        "text": "hot candy fat",
+        "confidence": 0.69764853,
+        "language": "tnc"
+    },
+    "tnc-29-78.wav": {
+        "text": "underscore is used with certain letters",
+        "confidence": 0.96238011,
+        "language": "eng"
+    },
+    "tnc-15-1.wav": {
+        "text": "Counting",
+        "confidence": 0.92833245,
+        "language": "eng"
+    },
+    "tnc-20-74.wav": {
+        "text": "number 2010",
+        "confidence": 0.86384618,
+        "language": "eng"
+    },
+    "tnc-29-50.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-44.wav": {
+        "text": "letter d",
+        "confidence": 0.96838284,
+        "language": "eng"
+    },
+    "tnc-20-60.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-28.wav": {
+        "text": "number 10 like that",
+        "confidence": 0.96801639,
+        "language": "eng"
+    },
+    "tnc-11-54.wav": {
+        "text": "time to kinda to Dann",
+        "confidence": 0.77987415,
+        "language": "tnc"
+    },
+    "tnc-05-21.wav": {
+        "text": "I'm going to school",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-35.wav": {
+        "text": "Nissan Natsu",
+        "confidence": 0.82171941,
+        "language": "tnc"
+    },
+    "tnc-11-40.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-14.wav": {
+        "text": "number five it's",
+        "confidence": 0.92424029,
+        "language": "eng"
+    },
+    "tnc-04-9.wav": {
+        "text": "number three say it again",
+        "confidence": 0.93872243,
+        "language": "eng"
+    },
+    "tnc-24-38.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-23-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-12.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-1.wav": {
+        "text": "season",
+        "confidence": 0.9482426,
+        "language": "eng"
+    },
+    "tnc-02-16.wav": {
+        "text": "number 6",
+        "confidence": 0.80182779,
+        "language": "eng"
+    },
+    "tnc-05-23.wav": {
+        "text": "we're going to school",
+        "confidence": 0.96753198,
+        "language": "eng"
+    },
+    "tnc-11-56.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-42.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-52.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-76.wav": {
+        "text": "number 21 drawing",
+        "confidence": 0.94117135,
+        "language": "eng"
+    },
+    "tnc-20-62.wav": {
+        "text": "10K in Hachi dark",
+        "confidence": 0.84936762,
+        "language": "tnc"
+    },
+    "tnc-29-46.wav": {
+        "text": "sounds which do not occur in English",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-06-9.wav": {
+        "text": "are you thirsty",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-91.wav": {
+        "text": "I",
+        "confidence": 0.8160736,
+        "language": "tnc"
+    },
+    "tnc-12-13.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-85.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-32.wav": {
+        "text": "number 10",
+        "confidence": 0.82900584,
+        "language": "eng"
+    },
+    "tnc-15-26.wav": {
+        "text": "attack",
+        "confidence": 0.60683835,
+        "language": "tnc"
+    },
+    "tnc-08-6.wav": {
+        "text": "number three where were you born",
+        "confidence": 0.943124,
+        "language": "eng"
+    },
+    "tnc-22-73.wav": {
+        "text": "number 17 squ",
+        "confidence": 0.97155374,
+        "language": "eng"
+    },
+    "tnc-22-67.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-13-5.wav": {
+        "text": "Young",
+        "confidence": 0.84783405,
+        "language": "tnc"
+    },
+    "tnc-19-26.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-131.wav": {
+        "text": "number 21",
+        "confidence": 0.96839118,
+        "language": "eng"
+    },
+    "tnc-10-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-125.wav": {
+        "text": "daughter",
+        "confidence": 0.84539747,
+        "language": "tnc"
+    },
+    "tnc-19-32.wav": {
+        "text": "in summer I pick cranberries",
+        "confidence": 0.96681422,
+        "language": "eng"
+    },
+    "tnc-28-3.wav": {
+        "text": "got done it never",
+        "confidence": 0.86303169,
+        "language": "tnc"
+    },
+    "tnc-17-23.wav": {
+        "text": "it's",
+        "confidence": 0.91459376,
+        "language": "eng"
+    },
+    "tnc-10-119.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-17.wav": {
+        "text": "Jack Nick tades and",
+        "confidence": 0.79179692,
+        "language": "tnc"
+    },
+    "tnc-21-22.wav": {
+        "text": "we're digging roots with a scraper to",
+        "confidence": 0.96214551,
+        "language": "eng"
+    },
+    "tnc-11-7.wav": {
+        "text": "number two",
+        "confidence": 0.89866555,
+        "language": "eng"
+    },
+    "tnc-28-12.wav": {
+        "text": "Kashi",
+        "confidence": 0.84275764,
+        "language": "tnc"
+    },
+    "tnc-21-36.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-66.wav": {
+        "text": "number",
+        "confidence": 0.97206229,
+        "language": "eng"
+    },
+    "tnc-09-37.wav": {
+        "text": "only did nothing you take",
+        "confidence": 0.92377937,
+        "language": "eng"
+    },
+    "tnc-09-23.wav": {
+        "text": "I'm wearing moccas",
+        "confidence": 0.95886344,
+        "language": "eng"
+    },
+    "tnc-07-26.wav": {
+        "text": "do you have any children",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-32.wav": {
+        "text": "cartoon de",
+        "confidence": 0.7110762,
+        "language": "tnc"
+    },
+    "tnc-07-33.wav": {
+        "text": "number 13 I live in Fair",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-27.wav": {
+        "text": "it's in California",
+        "confidence": 0.83494169,
+        "language": "tnc"
+    },
+    "tnc-09-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-67.wav": {
+        "text": "clear",
+        "confidence": 0.9305445,
+        "language": "eng"
+    },
+    "tnc-09-36.wav": {
+        "text": "she's wearing a scarf on her",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-28-13.wav": {
+        "text": "tell St",
+        "confidence": 0.92111528,
+        "language": "eng"
+    },
+    "tnc-21-37.wav": {
+        "text": "number nine SN",
+        "confidence": 0.8940683,
+        "language": "eng"
+    },
+    "tnc-11-6.wav": {
+        "text": "naked self",
+        "confidence": 0.63604921,
+        "language": "tnc"
+    },
+    "tnc-21-23.wav": {
+        "text": "watching horse ass",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-26-16.wav": {
+        "text": "number 6 I'm coming from picking ber",
+        "confidence": 0.9232716,
+        "language": "eng"
+    },
+    "tnc-28-2.wav": {
+        "text": "number one tomorrow I'm going camping",
+        "confidence": 0.97042197,
+        "language": "eng"
+    },
+    "tnc-10-118.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-17.wav": {
+        "text": "your father",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-124.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-130.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-27.wav": {
+        "text": "blue",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-13-4.wav": {
+        "text": "or in",
+        "confidence": 0.69084138,
+        "language": "tnc"
+    },
+    "tnc-22-66.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-72.wav": {
+        "text": "each other",
+        "confidence": 0.79967153,
+        "language": "tnc"
+    },
+    "tnc-15-27.wav": {
+        "text": "number",
+        "confidence": 0.96539223,
+        "language": "eng"
+    },
+    "tnc-08-7.wav": {
+        "text": "I'm getting home",
+        "confidence": 0.89204091,
+        "language": "tnc"
+    },
+    "tnc-15-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-84.wav": {
+        "text": "letter t h unders",
+        "confidence": 0.92513877,
+        "language": "eng"
+    },
+    "tnc-12-12.wav": {
+        "text": "stay",
+        "confidence": 0.80492765,
+        "language": "tnc"
+    },
+    "tnc-29-90.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-2.wav": {
+        "text": "number one",
+        "confidence": 0.95135224,
+        "language": "eng"
+    },
+    "tnc-06-8.wav": {
+        "text": "number two",
+        "confidence": 0.91176641,
+        "language": "eng"
+    },
+    "tnc-20-63.wav": {
+        "text": "number 17",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-47.wav": {
+        "text": "bard",
+        "confidence": 0.86035079,
+        "language": "tnc"
+    },
+    "tnc-29-53.wav": {
+        "text": "letter d d",
+        "confidence": 0.88548702,
+        "language": "tnc"
+    },
+    "tnc-20-77.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-36.wav": {
+        "text": "dry",
+        "confidence": 0.85905761,
+        "language": "tnc"
+    },
+    "tnc-11-43.wav": {
+        "text": "there's a moose eating on the",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-57.wav": {
+        "text": "in the brush",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-22.wav": {
+        "text": "Hospital theater",
+        "confidence": 0.8328557,
+        "language": "tnc"
+    },
+    "tnc-02-17.wav": {
+        "text": "poor",
+        "confidence": 0.94450593,
+        "language": "eng"
+    },
+    "tnc-22-9.wav": {
+        "text": "full car",
+        "confidence": 0.8814162,
+        "language": "tnc"
+    },
+    "tnc-24-13.wav": {
+        "text": "number",
+        "confidence": 0.92681909,
+        "language": "eng"
+    },
+    "tnc-17-4.wav": {
+        "text": "it's",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-24-17.wav": {
+        "text": "it's a hot",
+        "confidence": 0.76550466,
+        "language": "tnc"
+    },
+    "tnc-05-26.wav": {
+        "text": "to catch a baby",
+        "confidence": 0.87317288,
+        "language": "tnc"
+    },
+    "tnc-11-53.wav": {
+        "text": "flows around the island",
+        "confidence": 0.94617045,
+        "language": "eng"
+    },
+    "tnc-11-47.wav": {
+        "text": "we usually pick mushrooms from the for",
+        "confidence": 0.97094184,
+        "language": "eng"
+    },
+    "tnc-05-32.wav": {
+        "text": "let's go home",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-02-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-6.wav": {
+        "text": "cute",
+        "confidence": 0.69960332,
+        "language": "tnc"
+    },
+    "tnc-20-73.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-57.wav": {
+        "text": "letter G",
+        "confidence": 0.97130215,
+        "language": "eng"
+    },
+    "tnc-29-43.wav": {
+        "text": "but are spelled differently in tan",
+        "confidence": 0.93522024,
+        "language": "eng"
+    },
+    "tnc-20-67.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-08-3.wav": {
+        "text": "YouTube and ask her",
+        "confidence": 0.81723571,
+        "language": "tnc"
+    },
+    "tnc-15-23.wav": {
+        "text": "Miss",
+        "confidence": 0.53428388,
+        "language": "tnc"
+    },
+    "tnc-29-94.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-16.wav": {
+        "text": "number",
+        "confidence": 0.95840436,
+        "language": "eng"
+    },
+    "tnc-29-80.wav": {
+        "text": "letter bardell underscore",
+        "confidence": 0.8969143,
+        "language": "tnc"
+    },
+    "tnc-25-43.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-9.wav": {
+        "text": "the dealer husna",
+        "confidence": 0.75844646,
+        "language": "tnc"
+    },
+    "tnc-22-76.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-62.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-108.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-26.wav": {
+        "text": "Santa Access Auto Sales",
+        "confidence": 0.83569741,
+        "language": "tnc"
+    },
+    "tnc-28-6.wav": {
+        "text": "number three",
+        "confidence": 0.83277738,
+        "language": "eng"
+    },
+    "tnc-19-23.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-134.wav": {
+        "text": "number 22",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-120.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-37.wav": {
+        "text": "number 10 salmon",
+        "confidence": 0.96610719,
+        "language": "eng"
+    },
+    "tnc-10-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-27.wav": {
+        "text": "he's making",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-2.wav": {
+        "text": "number one",
+        "confidence": 0.96255136,
+        "language": "eng"
+    },
+    "tnc-02-8.wav": {
+        "text": "Daddy",
+        "confidence": 0.71185702,
+        "language": "tnc"
+    },
+    "tnc-21-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-17.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-26-12.wav": {
+        "text": "okay I'll make",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-23.wav": {
+        "text": "number nine my mother was from Mansfield",
+        "confidence": 0.93387651,
+        "language": "eng"
+    },
+    "tnc-07-37.wav": {
+        "text": "she do talk",
+        "confidence": 0.87555379,
+        "language": "tnc"
+    },
+    "tnc-09-32.wav": {
+        "text": "Jay she didn't",
+        "confidence": 0.84570909,
+        "language": "tnc"
+    },
+    "tnc-14-63.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-09-26.wav": {
+        "text": "King",
+        "confidence": 0.52026564,
+        "language": "tnc"
+    },
+    "tnc-09-27.wav": {
+        "text": "number eight sock",
+        "confidence": 0.8725422,
+        "language": "eng"
+    },
+    "tnc-09-33.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-62.wav": {
+        "text": "rainbow",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-36.wav": {
+        "text": "as for me I live in",
+        "confidence": 0.94833493,
+        "language": "eng"
+    },
+    "tnc-07-22.wav": {
+        "text": "Southwest check in",
+        "confidence": 0.8926416,
+        "language": "tnc"
+    },
+    "tnc-26-13.wav": {
+        "text": "to cut it look",
+        "confidence": 0.69421029,
+        "language": "tnc"
+    },
+    "tnc-21-32.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-9.wav": {
+        "text": "be quiet to more than",
+        "confidence": 0.95423394,
+        "language": "eng"
+    },
+    "tnc-28-16.wav": {
+        "text": "send hookah is Anita",
+        "confidence": 0.8596825,
+        "language": "tnc"
+    },
+    "tnc-11-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-26.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-36.wav": {
+        "text": "Nanny doing a consumerical",
+        "confidence": 0.96467018,
+        "language": "eng"
+    },
+    "tnc-10-121.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-12.wav": {
+        "text": "his or her",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-135.wav": {
+        "text": "Rel",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-22.wav": {
+        "text": "number 6",
+        "confidence": 0.84126776,
+        "language": "eng"
+    },
+    "tnc-28-7.wav": {
+        "text": "up there by the edge of the",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-10-109.wav": {
+        "text": "number 18",
+        "confidence": 0.96725523,
+        "language": "eng"
+    },
+    "tnc-22-63.wav": {
+        "text": "Martin lives on the land",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-77.wav": {
+        "text": "number 19",
+        "confidence": 0.9628551,
+        "language": "eng"
+    },
+    "tnc-26-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-13-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-42.wav": {
+        "text": "number 19 mushroom",
+        "confidence": 0.95479995,
+        "language": "eng"
+    },
+    "tnc-29-81.wav": {
+        "text": "who's",
+        "confidence": 0.43492958,
+        "language": "tnc"
+    },
+    "tnc-12-17.wav": {
+        "text": "yes if you speak slowly",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-95.wav": {
+        "text": "letter e",
+        "confidence": 0.96862531,
+        "language": "eng"
+    },
+    "tnc-08-2.wav": {
+        "text": "number one how old are you",
+        "confidence": 0.96755642,
+        "language": "eng"
+    },
+    "tnc-15-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-42.wav": {
+        "text": "sounds which occur in English",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-66.wav": {
+        "text": "number 18",
+        "confidence": 0.97186458,
+        "language": "eng"
+    },
+    "tnc-20-72.wav": {
+        "text": "number 19",
+        "confidence": 0.96990597,
+        "language": "eng"
+    },
+    "tnc-29-56.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-12.wav": {
+        "text": "it's",
+        "confidence": 0.96144539,
+        "language": "eng"
+    },
+    "tnc-05-33.wav": {
+        "text": "tattoo",
+        "confidence": 0.58375603,
+        "language": "tnc"
+    },
+    "tnc-11-46.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-52.wav": {
+        "text": "the river",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-27.wav": {
+        "text": "we are going to the store",
+        "confidence": 0.84751672,
+        "language": "tnc"
+    },
+    "tnc-24-16.wav": {
+        "text": "number 6 mag",
+        "confidence": 0.93604964,
+        "language": "eng"
+    },
+    "tnc-17-5.wav": {
+        "text": "no clue hun",
+        "confidence": 0.84047943,
+        "language": "tnc"
+    },
+    "tnc-17-7.wav": {
+        "text": "no clue that",
+        "confidence": 0.87677175,
+        "language": "tnc"
+    },
+    "tnc-24-28.wav": {
+        "text": "number 11 Willow ptar",
+        "confidence": 0.87662065,
+        "language": "eng"
+    },
+    "tnc-24-14.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-38.wav": {
+        "text": "okay let's go",
+        "confidence": 0.97216052,
+        "language": "eng"
+    },
+    "tnc-11-44.wav": {
+        "text": "can't get the teacher",
+        "confidence": 0.76266694,
+        "language": "tnc"
+    },
+    "tnc-05-31.wav": {
+        "text": "party",
+        "confidence": 0.49234557,
+        "language": "tnc"
+    },
+    "tnc-05-25.wav": {
+        "text": "number 6 I'm going to the store",
+        "confidence": 0.93524063,
+        "language": "eng"
+    },
+    "tnc-11-50.wav": {
+        "text": "Island",
+        "confidence": 0.71235192,
+        "language": "tnc"
+    },
+    "tnc-19-8.wav": {
+        "text": "we eat dry meat in the winter",
+        "confidence": 0.96540743,
+        "language": "eng"
+    },
+    "tnc-05-19.wav": {
+        "text": "dancing",
+        "confidence": 0.6986137,
+        "language": "tnc"
+    },
+    "tnc-02-10.wav": {
+        "text": "weather",
+        "confidence": 0.47040609,
+        "language": "tnc"
+    },
+    "tnc-20-58.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-15-5.wav": {
+        "text": "one",
+        "confidence": 0.96141434,
+        "language": "eng"
+    },
+    "tnc-29-68.wav": {
+        "text": "letter tth",
+        "confidence": 0.95703316,
+        "language": "eng"
+    },
+    "tnc-20-64.wav": {
+        "text": "toboggan dragging",
+        "confidence": 0.90564895,
+        "language": "eng"
+    },
+    "tnc-29-40.wav": {
+        "text": "letter n",
+        "confidence": 0.96747416,
+        "language": "eng"
+    },
+    "tnc-29-54.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-70.wav": {
+        "text": "I'm going across in",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-20.wav": {
+        "text": "must",
+        "confidence": 0.41127187,
+        "language": "tnc"
+    },
+    "tnc-12-29.wav": {
+        "text": "got done hooked",
+        "confidence": 0.90518326,
+        "language": "eng"
+    },
+    "tnc-15-34.wav": {
+        "text": "say hello day",
+        "confidence": 0.84736353,
+        "language": "tnc"
+    },
+    "tnc-12-15.wav": {
+        "text": "auntie",
+        "confidence": 0.65773773,
+        "language": "tnc"
+    },
+    "tnc-29-83.wav": {
+        "text": "who",
+        "confidence": 0.84680492,
+        "language": "tnc"
+    },
+    "tnc-29-97.wav": {
+        "text": "letter",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-49.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-40.wav": {
+        "text": "water meal foil muskrat",
+        "confidence": 0.84729379,
+        "language": "tnc"
+    },
+    "tnc-13-3.wav": {
+        "text": "area above",
+        "confidence": 0.96509916,
+        "language": "eng"
+    },
+    "tnc-22-61.wav": {
+        "text": "number 13",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-75.wav": {
+        "text": "number 18 Mountain",
+        "confidence": 0.97173315,
+        "language": "eng"
+    },
+    "tnc-28-5.wav": {
+        "text": "good morning",
+        "confidence": 0.87684917,
+        "language": "tnc"
+    },
+    "tnc-17-25.wav": {
+        "text": "in summer we stay in t",
+        "confidence": 0.95626956,
+        "language": "eng"
+    },
+    "tnc-10-38.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-10.wav": {
+        "text": "your",
+        "confidence": 0.96727198,
+        "language": "eng"
+    },
+    "tnc-10-123.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-19.wav": {
+        "text": "in Spring the ice",
+        "confidence": 0.96757448,
+        "language": "eng"
+    },
+    "tnc-19-20.wav": {
+        "text": "we make dried fish in",
+        "confidence": 0.95298308,
+        "language": "eng"
+    },
+    "tnc-10-137.wav": {
+        "text": "number 23",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-28-14.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-21-30.wav": {
+        "text": "Hotel on to who",
+        "confidence": 0.79237545,
+        "language": "tnc"
+    },
+    "tnc-24-8.wav": {
+        "text": "number three",
+        "confidence": 0.90403545,
+        "language": "eng"
+    },
+    "tnc-21-24.wav": {
+        "text": "number",
+        "confidence": 0.95843279,
+        "language": "eng"
+    },
+    "tnc-11-1.wav": {
+        "text": "geography",
+        "confidence": 0.94524777,
+        "language": "eng"
+    },
+    "tnc-28-28.wav": {
+        "text": "number 11 where will you stay",
+        "confidence": 0.96963239,
+        "language": "eng"
+    },
+    "tnc-21-18.wav": {
+        "text": "number five",
+        "confidence": 0.81869626,
+        "language": "eng"
+    },
+    "tnc-26-11.wav": {
+        "text": "number four",
+        "confidence": 0.79519498,
+        "language": "eng"
+    },
+    "tnc-07-34.wav": {
+        "text": "Fairbanks",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-09-19.wav": {
+        "text": "she did like",
+        "confidence": 0.88937157,
+        "language": "tnc"
+    },
+    "tnc-14-48.wav": {
+        "text": "number 16 Stars",
+        "confidence": 0.95296198,
+        "language": "eng"
+    },
+    "tnc-07-20.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-09-25.wav": {
+        "text": "number 7 boots",
+        "confidence": 0.84313828,
+        "language": "eng"
+    },
+    "tnc-14-60.wav": {
+        "text": "head touching consumer real estate in the year",
+        "confidence": 0.93106794,
+        "language": "eng"
+    },
+    "tnc-09-31.wav": {
+        "text": "I'm wearing",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-61.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-09-30.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-09-24.wav": {
+        "text": "and since she did like",
+        "confidence": 0.84527302,
+        "language": "tnc"
+    },
+    "tnc-07-21.wav": {
+        "text": "my father was from Ketchum",
+        "confidence": 0.96881711,
+        "language": "eng"
+    },
+    "tnc-09-18.wav": {
+        "text": "I'm wearing",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-35.wav": {
+        "text": "number 14",
+        "confidence": 0.96619141,
+        "language": "eng"
+    },
+    "tnc-14-49.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-29.wav": {
+        "text": "dead different",
+        "confidence": 0.55881089,
+        "language": "tnc"
+    },
+    "tnc-21-25.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-9.wav": {
+        "text": "camp",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-28-15.wav": {
+        "text": "we're going to set traps for mus",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-21-31.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-136.wav": {
+        "text": "who did",
+        "confidence": 0.74413455,
+        "language": "tnc"
+    },
+    "tnc-19-21.wav": {
+        "text": "chantamazi",
+        "confidence": 0.90265,
+        "language": "eng"
+    },
+    "tnc-10-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-18.wav": {
+        "text": "hey",
+        "confidence": 0.60142505,
+        "language": "tnc"
+    },
+    "tnc-19-35.wav": {
+        "text": "highbush cranberries don't smell good",
+        "confidence": 0.90146285,
+        "language": "eng"
+    },
+    "tnc-10-122.wav": {
+        "text": "Fiat",
+        "confidence": 0.70234925,
+        "language": "tnc"
+    },
+    "tnc-10-39.wav": {
+        "text": "my older sister",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-28-4.wav": {
+        "text": "number two where are you going camping",
+        "confidence": 0.95112991,
+        "language": "eng"
+    },
+    "tnc-17-24.wav": {
+        "text": "San Jose",
+        "confidence": 0.74443722,
+        "language": "tnc"
+    },
+    "tnc-22-74.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-60.wav": {
+        "text": "hit songs it's incred",
+        "confidence": 0.77354443,
+        "language": "tnc"
+    },
+    "tnc-22-48.wav": {
+        "text": "number 10 Musk",
+        "confidence": 0.94329405,
+        "language": "eng"
+    },
+    "tnc-13-2.wav": {
+        "text": "number one",
+        "confidence": 0.95878363,
+        "language": "eng"
+    },
+    "tnc-25-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-96.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-82.wav": {
+        "text": "letter s underscore",
+        "confidence": 0.92547894,
+        "language": "eng"
+    },
+    "tnc-12-14.wav": {
+        "text": "I don't hear or understand you",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-21.wav": {
+        "text": "number 6",
+        "confidence": 0.78299665,
+        "language": "eng"
+    },
+    "tnc-12-28.wav": {
+        "text": "day after tomorrow",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-08-1.wav": {
+        "text": "birthday and birth",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-55.wav": {
+        "text": "letter",
+        "confidence": 0.97188669,
+        "language": "eng"
+    },
+    "tnc-20-71.wav": {
+        "text": "you're not a CT",
+        "confidence": 0.83330047,
+        "language": "tnc"
+    },
+    "tnc-20-65.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-69.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-59.wav": {
+        "text": "number 16",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-18.wav": {
+        "text": "where are you all going",
+        "confidence": 0.96341717,
+        "language": "eng"
+    },
+    "tnc-02-11.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-51.wav": {
+        "text": "turn",
+        "confidence": 0.43012226,
+        "language": "tnc"
+    },
+    "tnc-05-24.wav": {
+        "text": "Hospital thrift shopping",
+        "confidence": 0.85916322,
+        "language": "tnc"
+    },
+    "tnc-19-9.wav": {
+        "text": "hey does she can't say",
+        "confidence": 0.82332242,
+        "language": "tnc"
+    },
+    "tnc-02-39.wav": {
+        "text": "to cut tooth",
+        "confidence": 0.77023083,
+        "language": "tnc"
+    },
+    "tnc-05-30.wav": {
+        "text": "I'm going home",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-45.wav": {
+        "text": "number 10",
+        "confidence": 0.96220863,
+        "language": "eng"
+    },
+    "tnc-24-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-6.wav": {
+        "text": "in Autumn the river will freeze",
+        "confidence": 0.90784413,
+        "language": "eng"
+    },
+    "tnc-24-24.wav": {
+        "text": "how",
+        "confidence": 0.50680715,
+        "language": "tnc"
+    },
+    "tnc-04-1.wav": {
+        "text": "common request",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-2.wav": {
+        "text": "number one",
+        "confidence": 0.85885763,
+        "language": "eng"
+    },
+    "tnc-24-30.wav": {
+        "text": "number 12 rocktarm",
+        "confidence": 0.90696973,
+        "language": "eng"
+    },
+    "tnc-24-18.wav": {
+        "text": "number",
+        "confidence": 0.94323081,
+        "language": "eng"
+    },
+    "tnc-23-11.wav": {
+        "text": "shooting",
+        "confidence": 0.92043918,
+        "language": "eng"
+    },
+    "tnc-05-29.wav": {
+        "text": "number",
+        "confidence": 0.97098905,
+        "language": "eng"
+    },
+    "tnc-19-4.wav": {
+        "text": "cook some",
+        "confidence": 0.94356459,
+        "language": "eng"
+    },
+    "tnc-02-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-48.wav": {
+        "text": "and name two sheets and a",
+        "confidence": 0.90557843,
+        "language": "eng"
+    },
+    "tnc-05-15.wav": {
+        "text": "number four",
+        "confidence": 0.77160555,
+        "language": "eng"
+    },
+    "tnc-11-60.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-64.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-40.wav": {
+        "text": "betting mattress",
+        "confidence": 0.84162271,
+        "language": "tnc"
+    },
+    "tnc-20-54.wav": {
+        "text": "money",
+        "confidence": 0.95627362,
+        "language": "eng"
+    },
+    "tnc-29-70.wav": {
+        "text": "letter T apostrophe",
+        "confidence": 0.8901673,
+        "language": "tnc"
+    },
+    "tnc-15-9.wav": {
+        "text": "number two",
+        "confidence": 0.82363826,
+        "language": "eng"
+    },
+    "tnc-29-58.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-68.wav": {
+        "text": "can",
+        "confidence": 0.96700311,
+        "language": "eng"
+    },
+    "tnc-12-31.wav": {
+        "text": "got",
+        "confidence": 0.51220572,
+        "language": "tnc"
+    },
+    "tnc-20-83.wav": {
+        "text": "number 24",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-25.wav": {
+        "text": "when are you leaving",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-19.wav": {
+        "text": "number six what do they call this in native language",
+        "confidence": 0.94241971,
+        "language": "eng"
+    },
+    "tnc-22-45.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-6.wav": {
+        "text": "to myself in",
+        "confidence": 0.76576263,
+        "language": "tnc"
+    },
+    "tnc-22-51.wav": {
+        "text": "said touche Del",
+        "confidence": 0.77982396,
+        "language": "tnc"
+    },
+    "tnc-22-79.wav": {
+        "text": "10",
+        "confidence": 0.82247293,
+        "language": "tnc"
+    },
+    "tnc-19-10.wav": {
+        "text": "number three fish",
+        "confidence": 0.92961246,
+        "language": "eng"
+    },
+    "tnc-10-107.wav": {
+        "text": "brother-in",
+        "confidence": 0.91869962,
+        "language": "eng"
+    },
+    "tnc-10-34.wav": {
+        "text": "number seven my woman's grandchild",
+        "confidence": 0.9259944,
+        "language": "eng"
+    },
+    "tnc-10-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-9.wav": {
+        "text": "number four alone",
+        "confidence": 0.91341782,
+        "language": "eng"
+    },
+    "tnc-10-113.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-38.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-15.wav": {
+        "text": "number three",
+        "confidence": 0.88700938,
+        "language": "eng"
+    },
+    "tnc-21-28.wav": {
+        "text": "with an",
+        "confidence": 0.97054434,
+        "language": "eng"
+    },
+    "tnc-24-4.wav": {
+        "text": "number two r",
+        "confidence": 0.927697,
+        "language": "eng"
+    },
+    "tnc-26-21.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-26-35.wav": {
+        "text": "you want a bis",
+        "confidence": 0.89705747,
+        "language": "tnc"
+    },
+    "tnc-28-18.wav": {
+        "text": "are there a lot of muskrats there",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-02-7.wav": {
+        "text": "be quiet",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-21-14.wav": {
+        "text": "number four",
+        "confidence": 0.901721,
+        "language": "eng"
+    },
+    "tnc-28-30.wav": {
+        "text": "number 12 we're bringing a",
+        "confidence": 0.91415519,
+        "language": "eng"
+    },
+    "tnc-28-24.wav": {
+        "text": "number nine how will you travel",
+        "confidence": 0.92944551,
+        "language": "eng"
+    },
+    "tnc-14-50.wav": {
+        "text": "there are usually stars in the sky at night",
+        "confidence": 0.96472347,
+        "language": "eng"
+    },
+    "tnc-07-38.wav": {
+        "text": "number 15 where do you work",
+        "confidence": 0.96983671,
+        "language": "eng"
+    },
+    "tnc-09-15.wav": {
+        "text": "I cannot do the",
+        "confidence": 0.72141016,
+        "language": "tnc"
+    },
+    "tnc-14-44.wav": {
+        "text": "the sun rose",
+        "confidence": 0.95682245,
+        "language": "eng"
+    },
+    "tnc-07-10.wav": {
+        "text": "number five who are your parents",
+        "confidence": 0.94925356,
+        "language": "eng"
+    },
+    "tnc-09-29.wav": {
+        "text": "number nine mitt",
+        "confidence": 0.88186353,
+        "language": "eng"
+    },
+    "tnc-09-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-11.wav": {
+        "text": "no in Georgia Hind",
+        "confidence": 0.8661623,
+        "language": "tnc"
+    },
+    "tnc-09-14.wav": {
+        "text": "I'm wearing a",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-39.wav": {
+        "text": "and say who said they eat",
+        "confidence": 0.78356361,
+        "language": "tnc"
+    },
+    "tnc-14-45.wav": {
+        "text": "hustling",
+        "confidence": 0.88403046,
+        "language": "tnc"
+    },
+    "tnc-14-51.wav": {
+        "text": "have to send shuck at",
+        "confidence": 0.83242112,
+        "language": "tnc"
+    },
+    "tnc-28-25.wav": {
+        "text": "it's 18",
+        "confidence": 0.88124359,
+        "language": "tnc"
+    },
+    "tnc-21-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-31.wav": {
+        "text": "tossetto",
+        "confidence": 0.55096453,
+        "language": "tnc"
+    },
+    "tnc-28-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-34.wav": {
+        "text": "number 12",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-02-6.wav": {
+        "text": "number three",
+        "confidence": 0.88590276,
+        "language": "eng"
+    },
+    "tnc-24-5.wav": {
+        "text": "touch",
+        "confidence": 0.3670091,
+        "language": "tnc"
+    },
+    "tnc-21-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-20.wav": {
+        "text": "did you check Maybe",
+        "confidence": 0.82553041,
+        "language": "tnc"
+    },
+    "tnc-17-14.wav": {
+        "text": "hi to Chef",
+        "confidence": 0.95489985,
+        "language": "eng"
+    },
+    "tnc-19-39.wav": {
+        "text": "number 11 frogberry",
+        "confidence": 0.90145779,
+        "language": "eng"
+    },
+    "tnc-28-8.wav": {
+        "text": "Young Thug",
+        "confidence": 0.83220172,
+        "language": "tnc"
+    },
+    "tnc-10-21.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-112.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-106.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-35.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-78.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-50.wav": {
+        "text": "muskrats live in the water",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-44.wav": {
+        "text": "number nine be",
+        "confidence": 0.88137788,
+        "language": "eng"
+    },
+    "tnc-26-7.wav": {
+        "text": "number three yes I'd like some tea",
+        "confidence": 0.90697527,
+        "language": "eng"
+    },
+    "tnc-15-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-18.wav": {
+        "text": "aw hot honey",
+        "confidence": 0.90344167,
+        "language": "eng"
+    },
+    "tnc-12-24.wav": {
+        "text": "number",
+        "confidence": 0.95909232,
+        "language": "eng"
+    },
+    "tnc-12-30.wav": {
+        "text": "in a little while",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-82.wav": {
+        "text": "noticed leg",
+        "confidence": 0.86968696,
+        "language": "tnc"
+    },
+    "tnc-20-69.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-59.wav": {
+        "text": "letter n",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-55.wav": {
+        "text": "fish sauce",
+        "confidence": 0.72281408,
+        "language": "tnc"
+    },
+    "tnc-15-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-1.wav": {
+        "text": "household items",
+        "confidence": 0.97182894,
+        "language": "eng"
+    },
+    "tnc-29-71.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-65.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-2.wav": {
+        "text": "number one are you hungry",
+        "confidence": 0.96897566,
+        "language": "eng"
+    },
+    "tnc-20-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-61.wav": {
+        "text": "the lookout places where they search for Animals from",
+        "confidence": 0.92844117,
+        "language": "eng"
+    },
+    "tnc-05-14.wav": {
+        "text": "it says answer",
+        "confidence": 0.73515481,
+        "language": "tnc"
+    },
+    "tnc-02-35.wav": {
+        "text": "number 13",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-16-40.wav": {
+        "text": "watching Chad",
+        "confidence": 0.81545031,
+        "language": "tnc"
+    },
+    "tnc-11-49.wav": {
+        "text": "number 11",
+        "confidence": 0.96345872,
+        "language": "eng"
+    },
+    "tnc-05-28.wav": {
+        "text": "to catch your tits",
+        "confidence": 0.87102646,
+        "language": "tnc"
+    },
+    "tnc-02-21.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-5.wav": {
+        "text": "she emits",
+        "confidence": 0.92488873,
+        "language": "eng"
+    },
+    "tnc-24-19.wav": {
+        "text": "chick",
+        "confidence": 0.96972895,
+        "language": "eng"
+    },
+    "tnc-23-10.wav": {
+        "text": "number four Sal",
+        "confidence": 0.77089286,
+        "language": "eng"
+    },
+    "tnc-22-3.wav": {
+        "text": "animal",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-24-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-25.wav": {
+        "text": "number",
+        "confidence": 0.90177602,
+        "language": "eng"
+    },
+    "tnc-24-33.wav": {
+        "text": "number 13",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-17-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-1.wav": {
+        "text": "animals",
+        "confidence": 0.84115982,
+        "language": "tnc"
+    },
+    "tnc-04-2.wav": {
+        "text": "number one",
+        "confidence": 0.89255446,
+        "language": "eng"
+    },
+    "tnc-24-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-23-12.wav": {
+        "text": "there are no salmon in Mansfield",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-02-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-23.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-16.wav": {
+        "text": "where are you going",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-63.wav": {
+        "text": "number 14 camp",
+        "confidence": 0.97042274,
+        "language": "eng"
+    },
+    "tnc-29-73.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-57.wav": {
+        "text": "number 15 SW",
+        "confidence": 0.88656968,
+        "language": "eng"
+    },
+    "tnc-20-43.wav": {
+        "text": "hotel now that",
+        "confidence": 0.70724314,
+        "language": "tnc"
+    },
+    "tnc-29-67.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-26.wav": {
+        "text": "visiting",
+        "confidence": 0.59790272,
+        "language": "tnc"
+    },
+    "tnc-20-80.wav": {
+        "text": "number 23",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-32.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-98.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-52.wav": {
+        "text": "number 11",
+        "confidence": 0.96302927,
+        "language": "eng"
+    },
+    "tnc-26-5.wav": {
+        "text": "number two do you want a hot beverage",
+        "confidence": 0.95275092,
+        "language": "eng"
+    },
+    "tnc-22-46.wav": {
+        "text": "fever is always working on his house",
+        "confidence": 0.92953116,
+        "language": "eng"
+    },
+    "tnc-10-110.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-23.wav": {
+        "text": "my grandfather",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-13.wav": {
+        "text": "show the",
+        "confidence": 0.76741624,
+        "language": "tnc"
+    },
+    "tnc-10-104.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-138.wav": {
+        "text": "man",
+        "confidence": 0.85772693,
+        "language": "tnc"
+    },
+    "tnc-02-4.wav": {
+        "text": "number two",
+        "confidence": 0.89854145,
+        "language": "eng"
+    },
+    "tnc-26-36.wav": {
+        "text": "it's at AA",
+        "confidence": 0.78709555,
+        "language": "tnc"
+    },
+    "tnc-26-22.wav": {
+        "text": "up there on the side of the Hill",
+        "confidence": 0.97068489,
+        "language": "eng"
+    },
+    "tnc-24-7.wav": {
+        "text": "that's",
+        "confidence": 0.51228857,
+        "language": "tnc"
+    },
+    "tnc-28-27.wav": {
+        "text": "touch a Sheetz",
+        "confidence": 0.85748529,
+        "language": "tnc"
+    },
+    "tnc-28-33.wav": {
+        "text": "head technique at",
+        "confidence": 0.8618145,
+        "language": "tnc"
+    },
+    "tnc-21-17.wav": {
+        "text": "Louis Daniel",
+        "confidence": 0.68976808,
+        "language": "tnc"
+    },
+    "tnc-14-47.wav": {
+        "text": "masate",
+        "confidence": 0.79015309,
+        "language": "tnc"
+    },
+    "tnc-09-16.wav": {
+        "text": "number five",
+        "confidence": 0.89852494,
+        "language": "eng"
+    },
+    "tnc-14-53.wav": {
+        "text": "yet",
+        "confidence": 0.61768538,
+        "language": "tnc"
+    },
+    "tnc-07-13.wav": {
+        "text": "my father's name was Sil",
+        "confidence": 0.97117728,
+        "language": "eng"
+    },
+    "tnc-07-12.wav": {
+        "text": "number six",
+        "confidence": 0.84333694,
+        "language": "eng"
+    },
+    "tnc-14-52.wav": {
+        "text": "number 17 Northern Lights",
+        "confidence": 0.97213143,
+        "language": "eng"
+    },
+    "tnc-14-46.wav": {
+        "text": "the Sun is",
+        "confidence": 0.96596223,
+        "language": "eng"
+    },
+    "tnc-09-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-32.wav": {
+        "text": "number 13 Even though it's cold at night",
+        "confidence": 0.97208297,
+        "language": "eng"
+    },
+    "tnc-21-16.wav": {
+        "text": "the Rope is tied tight",
+        "confidence": 0.96842909,
+        "language": "eng"
+    },
+    "tnc-28-26.wav": {
+        "text": "number 10 we'll go in my father's",
+        "confidence": 0.94397819,
+        "language": "eng"
+    },
+    "tnc-26-23.wav": {
+        "text": "and don't take",
+        "confidence": 0.83250791,
+        "language": "tnc"
+    },
+    "tnc-24-6.wav": {
+        "text": "Raven's",
+        "confidence": 0.86424136,
+        "language": "tnc"
+    },
+    "tnc-02-5.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-139.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-17.wav": {
+        "text": "it's",
+        "confidence": 0.96205574,
+        "language": "eng"
+    },
+    "tnc-10-36.wav": {
+        "text": "my man's grandchild",
+        "confidence": 0.94640923,
+        "language": "eng"
+    },
+    "tnc-10-105.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-12.wav": {
+        "text": "I caught a fish",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-111.wav": {
+        "text": "man",
+        "confidence": 0.69759244,
+        "language": "tnc"
+    },
+    "tnc-10-22.wav": {
+        "text": "number five",
+        "confidence": 0.82928181,
+        "language": "eng"
+    },
+    "tnc-26-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-47.wav": {
+        "text": "tattoo shop at it in the",
+        "confidence": 0.59014052,
+        "language": "tnc"
+    },
+    "tnc-22-53.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-99.wav": {
+        "text": "letter A",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-15-12.wav": {
+        "text": "number three",
+        "confidence": 0.84123069,
+        "language": "eng"
+    },
+    "tnc-20-81.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-33.wav": {
+        "text": "where are you coming from",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-27.wav": {
+        "text": "number nine",
+        "confidence": 0.82072872,
+        "language": "eng"
+    },
+    "tnc-20-42.wav": {
+        "text": "I folded his",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-66.wav": {
+        "text": "TL '",
+        "confidence": 0.82926017,
+        "language": "tnc"
+    },
+    "tnc-06-1.wav": {
+        "text": "personal conditions and feel",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-2.wav": {
+        "text": "number one",
+        "confidence": 0.93260574,
+        "language": "eng"
+    },
+    "tnc-29-72.wav": {
+        "text": "letter K apostrophe",
+        "confidence": 0.90238518,
+        "language": "eng"
+    },
+    "tnc-20-56.wav": {
+        "text": "pay for it with money this size ask me who in case",
+        "confidence": 0.92808723,
+        "language": "eng"
+    },
+    "tnc-11-62.wav": {
+        "text": "duck eggs and cheese noondaya",
+        "confidence": 0.86697543,
+        "language": "tnc"
+    },
+    "tnc-05-17.wav": {
+        "text": "dancing",
+        "confidence": 0.82772315,
+        "language": "tnc"
+    },
+    "tnc-02-22.wav": {
+        "text": "hurry up",
+        "confidence": 0.89246511,
+        "language": "tnc"
+    },
+    "tnc-19-6.wav": {
+        "text": "number two dry",
+        "confidence": 0.92560309,
+        "language": "eng"
+    },
+    "tnc-02-36.wav": {
+        "text": "okay",
+        "confidence": 0.96244568,
+        "language": "eng"
+    },
+    "tnc-23-13.wav": {
+        "text": "discardment she looked at",
+        "confidence": 0.89074004,
+        "language": "tnc"
+    },
+    "tnc-04-3.wav": {
+        "text": "what do they call this in your language",
+        "confidence": 0.96986169,
+        "language": "eng"
+    },
+    "tnc-24-26.wav": {
+        "text": "sharptail",
+        "confidence": 0.80473298,
+        "language": "tnc"
+    },
+    "tnc-24-32.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-17-9.wav": {
+        "text": "number two",
+        "confidence": 0.90225255,
+        "language": "eng"
+    },
+    "tnc-23-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-4.wav": {
+        "text": "no",
+        "confidence": 0.82352191,
+        "language": "tnc"
+    },
+    "tnc-24-36.wav": {
+        "text": "taco",
+        "confidence": 0.37597629,
+        "language": "tnc"
+    },
+    "tnc-24-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-04-7.wav": {
+        "text": "I don't understand you",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-13.wav": {
+        "text": "what shall we do",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-66.wav": {
+        "text": "can't get me hook",
+        "confidence": 0.8844685,
+        "language": "tnc"
+    },
+    "tnc-02-32.wav": {
+        "text": "number 12",
+        "confidence": 0.84157073,
+        "language": "eng"
+    },
+    "tnc-19-2.wav": {
+        "text": "number one",
+        "confidence": 0.96136343,
+        "language": "eng"
+    },
+    "tnc-02-26.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-52.wav": {
+        "text": "it said night",
+        "confidence": 0.8445003,
+        "language": "tnc"
+    },
+    "tnc-20-6.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-76.wav": {
+        "text": "letter c h apostrophe",
+        "confidence": 0.79284179,
+        "language": "tnc"
+    },
+    "tnc-06-5.wav": {
+        "text": "hi",
+        "confidence": 0.69531858,
+        "language": "tnc"
+    },
+    "tnc-29-62.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-46.wav": {
+        "text": "doctor",
+        "confidence": 0.37144548,
+        "language": "tnc"
+    },
+    "tnc-15-16.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-89.wav": {
+        "text": "Dale",
+        "confidence": 0.84258831,
+        "language": "tnc"
+    },
+    "tnc-12-23.wav": {
+        "text": "neon dig she get latitai",
+        "confidence": 0.91358387,
+        "language": "eng"
+    },
+    "tnc-06-42.wav": {
+        "text": "I am improve",
+        "confidence": 0.97071475,
+        "language": "eng"
+    },
+    "tnc-12-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-85.wav": {
+        "text": "who she dick",
+        "confidence": 0.77468109,
+        "language": "tnc"
+    },
+    "tnc-22-57.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-43.wav": {
+        "text": "need to hold",
+        "confidence": 0.91973114,
+        "language": "eng"
+    },
+    "tnc-13-9.wav": {
+        "text": "Young",
+        "confidence": 0.57646561,
+        "language": "tnc"
+    },
+    "tnc-17-13.wav": {
+        "text": "in Winter there is snow",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-129.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-26.wav": {
+        "text": "his or her grandfather",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-115.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-16.wav": {
+        "text": "cook some fish eggs",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-101.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-32.wav": {
+        "text": "his or her grandmother",
+        "confidence": 0.97083008,
+        "language": "eng"
+    },
+    "tnc-28-22.wav": {
+        "text": "that's what they say",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-21-12.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-36.wav": {
+        "text": "Nick at the",
+        "confidence": 0.86633587,
+        "language": "tnc"
+    },
+    "tnc-26-33.wav": {
+        "text": "10",
+        "confidence": 0.53587556,
+        "language": "tnc"
+    },
+    "tnc-02-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-2.wav": {
+        "text": "number one bird",
+        "confidence": 0.96519351,
+        "language": "eng"
+    },
+    "tnc-26-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-16.wav": {
+        "text": "no Stella Mar",
+        "confidence": 0.85958982,
+        "language": "tnc"
+    },
+    "tnc-09-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-42.wav": {
+        "text": "number 15",
+        "confidence": 0.95730162,
+        "language": "eng"
+    },
+    "tnc-14-56.wav": {
+        "text": "number 18",
+        "confidence": 0.96658432,
+        "language": "eng"
+    },
+    "tnc-14-57.wav": {
+        "text": "Moon",
+        "confidence": 0.73661423,
+        "language": "tnc"
+    },
+    "tnc-09-12.wav": {
+        "text": "shirt coat or dress",
+        "confidence": 0.9603098,
+        "language": "eng"
+    },
+    "tnc-14-43.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-17.wav": {
+        "text": "number",
+        "confidence": 0.96610278,
+        "language": "eng"
+    },
+    "tnc-24-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-26.wav": {
+        "text": "number 10 where do you work",
+        "confidence": 0.94745493,
+        "language": "eng"
+    },
+    "tnc-26-32.wav": {
+        "text": "cartoon",
+        "confidence": 0.83095419,
+        "language": "tnc"
+    },
+    "tnc-21-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-28-37.wav": {
+        "text": "did",
+        "confidence": 0.61973649,
+        "language": "tnc"
+    },
+    "tnc-28-23.wav": {
+        "text": "told you",
+        "confidence": 0.76429629,
+        "language": "tnc"
+    },
+    "tnc-10-100.wav": {
+        "text": "17",
+        "confidence": 0.88518941,
+        "language": "tnc"
+    },
+    "tnc-19-17.wav": {
+        "text": "Shook on Christmas",
+        "confidence": 0.85095352,
+        "language": "tnc"
+    },
+    "tnc-10-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-27.wav": {
+        "text": "number six",
+        "confidence": 0.82798851,
+        "language": "eng"
+    },
+    "tnc-10-114.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-128.wav": {
+        "text": "grandchild",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-17-12.wav": {
+        "text": "hey",
+        "confidence": 0.95129639,
+        "language": "eng"
+    },
+    "tnc-22-42.wav": {
+        "text": "links has long leg",
+        "confidence": 0.86128503,
+        "language": "tnc"
+    },
+    "tnc-13-8.wav": {
+        "text": "number two area upstre",
+        "confidence": 0.9378559,
+        "language": "eng"
+    },
+    "tnc-26-1.wav": {
+        "text": "drinking tea dial",
+        "confidence": 0.97175139,
+        "language": "eng"
+    },
+    "tnc-22-56.wav": {
+        "text": "number 12",
+        "confidence": 0.96974331,
+        "language": "eng"
+    },
+    "tnc-12-36.wav": {
+        "text": "Parkdale theater",
+        "confidence": 0.69588304,
+        "language": "tnc"
+    },
+    "tnc-06-43.wav": {
+        "text": "nice",
+        "confidence": 0.51586044,
+        "language": "tnc"
+    },
+    "tnc-20-84.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-22.wav": {
+        "text": "they call that a chair in our",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-15-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-88.wav": {
+        "text": "letter X underscore",
+        "confidence": 0.82408899,
+        "language": "tnc"
+    },
+    "tnc-29-63.wav": {
+        "text": "apostrophe",
+        "confidence": 0.87608939,
+        "language": "tnc"
+    },
+    "tnc-06-4.wav": {
+        "text": "yes I'm hungry",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-47.wav": {
+        "text": "the bed is made",
+        "confidence": 0.96854687,
+        "language": "eng"
+    },
+    "tnc-20-53.wav": {
+        "text": "number 14",
+        "confidence": 0.97180003,
+        "language": "eng"
+    },
+    "tnc-29-77.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-7.wav": {
+        "text": "I struck a match",
+        "confidence": 0.97202188,
+        "language": "eng"
+    },
+    "tnc-02-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-33.wav": {
+        "text": "that's okay",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-12.wav": {
+        "text": "number three",
+        "confidence": 0.82612014,
+        "language": "eng"
+    },
+    "tnc-24-23.wav": {
+        "text": "number nine rough",
+        "confidence": 0.86493295,
+        "language": "eng"
+    },
+    "tnc-04-6.wav": {
+        "text": "I didn't hear you",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-5.wav": {
+        "text": "there are lots of animals",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-24-37.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-23-16.wav": {
+        "text": "number 6 Whitefish",
+        "confidence": 0.88950032,
+        "language": "eng"
+    },
+    "tnc-23-14.wav": {
+        "text": "number five sucker fish",
+        "confidence": 0.81623614,
+        "language": "eng"
+    },
+    "tnc-04-4.wav": {
+        "text": "John and dig she didn't say if you",
+        "confidence": 0.90700907,
+        "language": "eng"
+    },
+    "tnc-24-21.wav": {
+        "text": "number 8 spruce",
+        "confidence": 0.92146701,
+        "language": "eng"
+    },
+    "tnc-24-35.wav": {
+        "text": "number 14",
+        "confidence": 0.96665859,
+        "language": "eng"
+    },
+    "tnc-22-7.wav": {
+        "text": "number two car",
+        "confidence": 0.92623132,
+        "language": "eng"
+    },
+    "tnc-02-19.wav": {
+        "text": "number seven I don't know",
+        "confidence": 0.92038137,
+        "language": "eng"
+    },
+    "tnc-05-10.wav": {
+        "text": "I'm reading",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-65.wav": {
+        "text": "they overnight at the camp",
+        "confidence": 0.9703871,
+        "language": "eng"
+    },
+    "tnc-19-1.wav": {
+        "text": "food",
+        "confidence": 0.70617002,
+        "language": "tnc"
+    },
+    "tnc-02-25.wav": {
+        "text": "not me",
+        "confidence": 0.97205514,
+        "language": "eng"
+    },
+    "tnc-11-59.wav": {
+        "text": "number 13 Lookout place",
+        "confidence": 0.95372677,
+        "language": "eng"
+    },
+    "tnc-05-38.wav": {
+        "text": "fry",
+        "confidence": 0.84181511,
+        "language": "tnc"
+    },
+    "tnc-02-31.wav": {
+        "text": "suit",
+        "confidence": 0.60872489,
+        "language": "tnc"
+    },
+    "tnc-20-79.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-49.wav": {
+        "text": "letter t",
+        "confidence": 0.97159523,
+        "language": "eng"
+    },
+    "tnc-20-45.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-6.wav": {
+        "text": "I'm not hungry",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-61.wav": {
+        "text": "letter y",
+        "confidence": 0.95449305,
+        "language": "eng"
+    },
+    "tnc-20-5.wav": {
+        "text": "number two",
+        "confidence": 0.90795863,
+        "language": "eng"
+    },
+    "tnc-29-75.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-51.wav": {
+        "text": "fold your blank",
+        "confidence": 0.9192276,
+        "language": "eng"
+    },
+    "tnc-15-15.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-41.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-34.wav": {
+        "text": "dancing",
+        "confidence": 0.93271714,
+        "language": "eng"
+    },
+    "tnc-08-9.wav": {
+        "text": "I was born by the trail under 7 Mile Hill",
+        "confidence": 0.93633187,
+        "language": "eng"
+    },
+    "tnc-12-20.wav": {
+        "text": "Johnny on big she didn't say if you",
+        "confidence": 0.90297759,
+        "language": "eng"
+    },
+    "tnc-15-29.wav": {
+        "text": "Miss",
+        "confidence": 0.58021832,
+        "language": "tnc"
+    },
+    "tnc-22-68.wav": {
+        "text": "antique",
+        "confidence": 0.70234317,
+        "language": "tnc"
+    },
+    "tnc-26-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-40.wav": {
+        "text": "number eight link",
+        "confidence": 0.8489868,
+        "language": "eng"
+    },
+    "tnc-22-54.wav": {
+        "text": "rabbits are easily fright",
+        "confidence": 0.96362042,
+        "language": "eng"
+    },
+    "tnc-19-29.wav": {
+        "text": "blueberries are",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-17-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-19.wav": {
+        "text": "number four my parent",
+        "confidence": 0.9304024,
+        "language": "eng"
+    },
+    "tnc-10-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-102.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-116.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-25.wav": {
+        "text": "your grandfather",
+        "confidence": 0.97069138,
+        "language": "eng"
+    },
+    "tnc-26-18.wav": {
+        "text": "number",
+        "confidence": 0.96810937,
+        "language": "eng"
+    },
+    "tnc-28-35.wav": {
+        "text": "if it's cold I'll make a fire",
+        "confidence": 0.97034234,
+        "language": "eng"
+    },
+    "tnc-21-11.wav": {
+        "text": "number three",
+        "confidence": 0.8998971,
+        "language": "eng"
+    },
+    "tnc-28-21.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-26-24.wav": {
+        "text": "number nine I'm coming from work",
+        "confidence": 0.92604703,
+        "language": "eng"
+    },
+    "tnc-11-8.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-24-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-39.wav": {
+        "text": "number 10 rabbit SN",
+        "confidence": 0.94238734,
+        "language": "eng"
+    },
+    "tnc-02-2.wav": {
+        "text": "number one not that way",
+        "confidence": 0.96906042,
+        "language": "eng"
+    },
+    "tnc-26-30.wav": {
+        "text": "hospitality",
+        "confidence": 0.76932156,
+        "language": "tnc"
+    },
+    "tnc-07-15.wav": {
+        "text": "my mother's name was St",
+        "confidence": 0.96598834,
+        "language": "eng"
+    },
+    "tnc-14-69.wav": {
+        "text": "the sky is clear",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-29.wav": {
+        "text": "I think hey hun",
+        "confidence": 0.69887692,
+        "language": "tnc"
+    },
+    "tnc-14-55.wav": {
+        "text": "snake exit yet you make me",
+        "confidence": 0.90736675,
+        "language": "eng"
+    },
+    "tnc-14-41.wav": {
+        "text": "now old Hedgehog",
+        "confidence": 0.87596464,
+        "language": "tnc"
+    },
+    "tnc-09-10.wav": {
+        "text": "tissue is not dead leg",
+        "confidence": 0.89808178,
+        "language": "tnc"
+    },
+    "tnc-14-40.wav": {
+        "text": "number 14 it's muddy outside",
+        "confidence": 0.97061539,
+        "language": "eng"
+    },
+    "tnc-09-11.wav": {
+        "text": "number four",
+        "confidence": 0.84031725,
+        "language": "eng"
+    },
+    "tnc-07-28.wav": {
+        "text": "number 11 yes I have children",
+        "confidence": 0.94906712,
+        "language": "eng"
+    },
+    "tnc-14-54.wav": {
+        "text": "if it's cold out you will see the Northern",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-07-14.wav": {
+        "text": "Silas meeting",
+        "confidence": 0.6755569,
+        "language": "tnc"
+    },
+    "tnc-14-68.wav": {
+        "text": "natural",
+        "confidence": 0.90830868,
+        "language": "eng"
+    },
+    "tnc-02-3.wav": {
+        "text": "kah",
+        "confidence": 0.69834775,
+        "language": "tnc"
+    },
+    "tnc-21-38.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-26-31.wav": {
+        "text": "Jewish",
+        "confidence": 0.55679947,
+        "language": "tnc"
+    },
+    "tnc-26-25.wav": {
+        "text": "Edition free",
+        "confidence": 0.62535834,
+        "language": "tnc"
+    },
+    "tnc-11-9.wav": {
+        "text": "a trail was made along the edge of the",
+        "confidence": 0.9647131,
+        "language": "eng"
+    },
+    "tnc-28-20.wav": {
+        "text": "set an alarm",
+        "confidence": 0.82032228,
+        "language": "tnc"
+    },
+    "tnc-28-34.wav": {
+        "text": "number 14",
+        "confidence": 0.97175586,
+        "language": "eng"
+    },
+    "tnc-26-19.wav": {
+        "text": "where did you pick Fair",
+        "confidence": 0.89382362,
+        "language": "tnc"
+    },
+    "tnc-21-10.wav": {
+        "text": "got us not in",
+        "confidence": 0.87530947,
+        "language": "tnc"
+    },
+    "tnc-10-117.wav": {
+        "text": "J",
+        "confidence": 0.70456618,
+        "language": "tnc"
+    },
+    "tnc-10-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-30.wav": {
+        "text": "your grand",
+        "confidence": 0.97218639,
+        "language": "eng"
+    },
+    "tnc-10-103.wav": {
+        "text": "sister-in",
+        "confidence": 0.91012013,
+        "language": "eng"
+    },
+    "tnc-19-14.wav": {
+        "text": "number four fish",
+        "confidence": 0.87332469,
+        "language": "eng"
+    },
+    "tnc-17-11.wav": {
+        "text": "it's winter",
+        "confidence": 0.95466983,
+        "language": "eng"
+    },
+    "tnc-10-18.wav": {
+        "text": "his or her father",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-55.wav": {
+        "text": "gosh it didn't",
+        "confidence": 0.6263445,
+        "language": "tnc"
+    },
+    "tnc-26-2.wav": {
+        "text": "number one come in sit down",
+        "confidence": 0.96923643,
+        "language": "eng"
+    },
+    "tnc-22-41.wav": {
+        "text": "me",
+        "confidence": 0.60144538,
+        "language": "tnc"
+    },
+    "tnc-22-69.wav": {
+        "text": "number 16 porcup",
+        "confidence": 0.97195596,
+        "language": "eng"
+    },
+    "tnc-12-21.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-08-8.wav": {
+        "text": "number four",
+        "confidence": 0.83482689,
+        "language": "eng"
+    },
+    "tnc-15-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-35.wav": {
+        "text": "number 11 I'm coming from the school",
+        "confidence": 0.97086662,
+        "language": "eng"
+    },
+    "tnc-06-40.wav": {
+        "text": "she hurt",
+        "confidence": 0.82381737,
+        "language": "tnc"
+    },
+    "tnc-15-14.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-74.wav": {
+        "text": "letter TS apostrophe",
+        "confidence": 0.92146468,
+        "language": "eng"
+    },
+    "tnc-20-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-50.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-44.wav": {
+        "text": "number 12",
+        "confidence": 0.84057379,
+        "language": "eng"
+    },
+    "tnc-29-60.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-7.wav": {
+        "text": "got",
+        "confidence": 0.50057697,
+        "language": "tnc"
+    },
+    "tnc-29-48.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-78.wav": {
+        "text": "number 22 fish",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-39.wav": {
+        "text": "it's",
+        "confidence": 0.66620815,
+        "language": "tnc"
+    },
+    "tnc-02-30.wav": {
+        "text": "number 11 take care be careful",
+        "confidence": 0.95399255,
+        "language": "eng"
+    },
+    "tnc-02-24.wav": {
+        "text": "number nine",
+        "confidence": 0.88653886,
+        "language": "eng"
+    },
+    "tnc-11-58.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-02-18.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-40.wav": {
+        "text": "it's Indian action",
+        "confidence": 0.92871791,
+        "language": "eng"
+    },
+    "tnc-11-64.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-11.wav": {
+        "text": "touch your dead",
+        "confidence": 0.80733699,
+        "language": "tnc"
+    },
+    "tnc-24-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-6.wav": {
+        "text": "no",
+        "confidence": 0.84707284,
+        "language": "tnc"
+    },
+    "tnc-04-5.wav": {
+        "text": "number two",
+        "confidence": 0.88662863,
+        "language": "eng"
+    },
+    "tnc-24-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-23-15.wav": {
+        "text": "that's",
+        "confidence": 0.83123428,
+        "language": "tnc"
+    },
+    "tnc-24-47.wav": {
+        "text": "number 19 white wing sco",
+        "confidence": 0.95335805,
+        "language": "eng"
+    },
+    "tnc-03-4.wav": {
+        "text": "number two",
+        "confidence": 0.82449901,
+        "language": "eng"
+    },
+    "tnc-29-108.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-120.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-36.wav": {
+        "text": "ceiling",
+        "confidence": 0.83496827,
+        "language": "tnc"
+    },
+    "tnc-16-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-27.wav": {
+        "text": "comment",
+        "confidence": 0.86114669,
+        "language": "tnc"
+    },
+    "tnc-11-17.wav": {
+        "text": "number four Mountain",
+        "confidence": 0.89328319,
+        "language": "eng"
+    },
+    "tnc-18-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-6.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-23.wav": {
+        "text": "two",
+        "confidence": 0.58671302,
+        "language": "tnc"
+    },
+    "tnc-29-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-37.wav": {
+        "text": "I put charcoal in the fire",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-27-5.wav": {
+        "text": "hey to call",
+        "confidence": 0.81832576,
+        "language": "tnc"
+    },
+    "tnc-27-16.wav": {
+        "text": "game",
+        "confidence": 0.57973003,
+        "language": "tnc"
+    },
+    "tnc-06-27.wav": {
+        "text": "RX",
+        "confidence": 0.72650057,
+        "language": "tnc"
+    },
+    "tnc-06-33.wav": {
+        "text": "do you have a cold",
+        "confidence": 0.95468503,
+        "language": "eng"
+    },
+    "tnc-12-46.wav": {
+        "text": "nondogging",
+        "confidence": 0.72631311,
+        "language": "tnc"
+    },
+    "tnc-01-12.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-94.wav": {
+        "text": "brother-in",
+        "confidence": 0.90644825,
+        "language": "eng"
+    },
+    "tnc-21-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-26.wav": {
+        "text": "number five grizzly bear",
+        "confidence": 0.9289422,
+        "language": "eng"
+    },
+    "tnc-22-32.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-80.wav": {
+        "text": "Chuck",
+        "confidence": 0.67091525,
+        "language": "tnc"
+    },
+    "tnc-25-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-57.wav": {
+        "text": "mean",
+        "confidence": 0.83286905,
+        "language": "tnc"
+    },
+    "tnc-10-164.wav": {
+        "text": "29 medicine man",
+        "confidence": 0.95238346,
+        "language": "eng"
+    },
+    "tnc-19-73.wav": {
+        "text": "dang",
+        "confidence": 0.84585613,
+        "language": "tnc"
+    },
+    "tnc-19-67.wav": {
+        "text": "19",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-43.wav": {
+        "text": "his or her older sister",
+        "confidence": 0.96815938,
+        "language": "eng"
+    },
+    "tnc-03-17.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-158.wav": {
+        "text": "number 2",
+        "confidence": 0.96771634,
+        "language": "eng"
+    },
+    "tnc-16-8.wav": {
+        "text": "number four heal",
+        "confidence": 0.91430378,
+        "language": "eng"
+    },
+    "tnc-23-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-2.wav": {
+        "text": "number one what are you doing",
+        "confidence": 0.96811134,
+        "language": "eng"
+    },
+    "tnc-14-33.wav": {
+        "text": "number 11 it's stor",
+        "confidence": 0.93927026,
+        "language": "eng"
+    },
+    "tnc-14-27.wav": {
+        "text": "number 8 it's",
+        "confidence": 0.88237977,
+        "language": "eng"
+    },
+    "tnc-18-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-13-12.wav": {
+        "text": "number three area downstre",
+        "confidence": 0.89719993,
+        "language": "eng"
+    },
+    "tnc-13-13.wav": {
+        "text": "you're not",
+        "confidence": 0.89601737,
+        "language": "tnc"
+    },
+    "tnc-14-26.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-6.wav": {
+        "text": "number two tomorrow",
+        "confidence": 0.91965485,
+        "language": "eng"
+    },
+    "tnc-14-32.wav": {
+        "text": "hog",
+        "confidence": 0.69704479,
+        "language": "tnc"
+    },
+    "tnc-05-3.wav": {
+        "text": "I'm getting",
+        "confidence": 0.7254203,
+        "language": "tnc"
+    },
+    "tnc-16-9.wav": {
+        "text": "mantis",
+        "confidence": 0.83747804,
+        "language": "tnc"
+    },
+    "tnc-10-159.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-16.wav": {
+        "text": "didn't",
+        "confidence": 0.58238274,
+        "language": "tnc"
+    },
+    "tnc-19-66.wav": {
+        "text": "by slow cooker",
+        "confidence": 0.77431875,
+        "language": "tnc"
+    },
+    "tnc-10-42.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-56.wav": {
+        "text": "his or her older brother",
+        "confidence": 0.96898544,
+        "language": "eng"
+    },
+    "tnc-19-72.wav": {
+        "text": "in the spring we dig roots",
+        "confidence": 0.90742546,
+        "language": "eng"
+    },
+    "tnc-10-165.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-12.wav": {
+        "text": "number 6",
+        "confidence": 0.84367251,
+        "language": "eng"
+    },
+    "tnc-07-1.wav": {
+        "text": "names and general convers",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-22-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-81.wav": {
+        "text": "my",
+        "confidence": 0.94888556,
+        "language": "eng"
+    },
+    "tnc-10-95.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-27.wav": {
+        "text": "Chilito",
+        "confidence": 0.7601434,
+        "language": "tnc"
+    },
+    "tnc-21-2.wav": {
+        "text": "number one",
+        "confidence": 0.91240144,
+        "language": "eng"
+    },
+    "tnc-01-13.wav": {
+        "text": "it's good I like",
+        "confidence": 0.97196674,
+        "language": "eng"
+    },
+    "tnc-12-47.wav": {
+        "text": "number 14",
+        "confidence": 0.96646559,
+        "language": "eng"
+    },
+    "tnc-06-32.wav": {
+        "text": "number six",
+        "confidence": 0.83138007,
+        "language": "eng"
+    },
+    "tnc-06-26.wav": {
+        "text": "I'm not sick",
+        "confidence": 0.91421509,
+        "language": "eng"
+    },
+    "tnc-27-17.wav": {
+        "text": "in the summer the grass is green",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-29-12.wav": {
+        "text": "letter",
+        "confidence": 0.96628267,
+        "language": "eng"
+    },
+    "tnc-27-4.wav": {
+        "text": "rabbits are white in the winter",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-36.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-22.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-7.wav": {
+        "text": "number three again",
+        "confidence": 0.91710138,
+        "language": "eng"
+    },
+    "tnc-11-16.wav": {
+        "text": "hey hey Thug dark Yahoo",
+        "confidence": 0.91575688,
+        "language": "eng"
+    },
+    "tnc-18-32.wav": {
+        "text": "tonight",
+        "confidence": 0.96797907,
+        "language": "eng"
+    },
+    "tnc-18-26.wav": {
+        "text": "tomorrow morning",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-16-23.wav": {
+        "text": "number 10 Mansfield",
+        "confidence": 0.96974152,
+        "language": "eng"
+    },
+    "tnc-16-37.wav": {
+        "text": "number 17 little Crystal River",
+        "confidence": 0.88707447,
+        "language": "eng"
+    },
+    "tnc-29-121.wav": {
+        "text": "hi",
+        "confidence": 0.71069098,
+        "language": "tnc"
+    },
+    "tnc-25-6.wav": {
+        "text": "number three",
+        "confidence": 0.91394293,
+        "language": "eng"
+    },
+    "tnc-29-109.wav": {
+        "text": "valves may be nasal",
+        "confidence": 0.87312317,
+        "language": "tnc"
+    },
+    "tnc-03-5.wav": {
+        "text": "I'm fine",
+        "confidence": 0.97091478,
+        "language": "eng"
+    },
+    "tnc-24-46.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-4.wav": {
+        "text": "number two spruce",
+        "confidence": 0.8647334,
+        "language": "eng"
+    },
+    "tnc-24-44.wav": {
+        "text": "it's",
+        "confidence": 0.51513612,
+        "language": "tnc"
+    },
+    "tnc-03-7.wav": {
+        "text": "number 2A I'm fine",
+        "confidence": 0.88311875,
+        "language": "eng"
+    },
+    "tnc-29-123.wav": {
+        "text": "falling",
+        "confidence": 0.91401124,
+        "language": "eng"
+    },
+    "tnc-16-21.wav": {
+        "text": "Guam",
+        "confidence": 0.79433715,
+        "language": "tnc"
+    },
+    "tnc-11-28.wav": {
+        "text": "their sand on the edge of the",
+        "confidence": 0.93843126,
+        "language": "eng"
+    },
+    "tnc-05-49.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-16-35.wav": {
+        "text": "number 16 Robertson River",
+        "confidence": 0.96808356,
+        "language": "eng"
+    },
+    "tnc-18-18.wav": {
+        "text": "number five after a while",
+        "confidence": 0.93599737,
+        "language": "eng"
+    },
+    "tnc-18-30.wav": {
+        "text": "last night",
+        "confidence": 0.95603502,
+        "language": "eng"
+    },
+    "tnc-11-14.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-24.wav": {
+        "text": "this morning",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-6.wav": {
+        "text": "number two",
+        "confidence": 0.90845847,
+        "language": "eng"
+    },
+    "tnc-29-10.wav": {
+        "text": "letter",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-27-29.wav": {
+        "text": "damn",
+        "confidence": 0.44452333,
+        "language": "tnc"
+    },
+    "tnc-01-5.wav": {
+        "text": "number two",
+        "confidence": 0.90313995,
+        "language": "eng"
+    },
+    "tnc-20-20.wav": {
+        "text": "itchy",
+        "confidence": 0.96741068,
+        "language": "eng"
+    },
+    "tnc-29-38.wav": {
+        "text": "letter d",
+        "confidence": 0.96966016,
+        "language": "eng"
+    },
+    "tnc-27-15.wav": {
+        "text": "blue and green",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-01-39.wav": {
+        "text": "to cut tooth",
+        "confidence": 0.77023101,
+        "language": "tnc"
+    },
+    "tnc-06-30.wav": {
+        "text": "I have a",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-45.wav": {
+        "text": "number 13 who is that",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-51.wav": {
+        "text": "John",
+        "confidence": 0.94983089,
+        "language": "eng"
+    },
+    "tnc-06-24.wav": {
+        "text": "yes I'm",
+        "confidence": 0.97104084,
+        "language": "eng"
+    },
+    "tnc-29-9.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-18.wav": {
+        "text": "oh ter",
+        "confidence": 0.67792624,
+        "language": "tnc"
+    },
+    "tnc-01-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-83.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-38.wav": {
+        "text": "cool",
+        "confidence": 0.58164215,
+        "language": "tnc"
+    },
+    "tnc-22-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-3.wav": {
+        "text": "and said no",
+        "confidence": 0.74944574,
+        "language": "tnc"
+    },
+    "tnc-22-25.wav": {
+        "text": "shows hiat",
+        "confidence": 0.88703299,
+        "language": "tnc"
+    },
+    "tnc-14-9.wav": {
+        "text": "was",
+        "confidence": 0.83206809,
+        "language": "tnc"
+    },
+    "tnc-10-97.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-19.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-10.wav": {
+        "text": "number five Poplar cotton",
+        "confidence": 0.91647398,
+        "language": "eng"
+    },
+    "tnc-10-40.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-64.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-167.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-70.wav": {
+        "text": "Indian potato Ro",
+        "confidence": 0.96563935,
+        "language": "eng"
+    },
+    "tnc-10-54.wav": {
+        "text": "your older brother",
+        "confidence": 0.84338862,
+        "language": "tnc"
+    },
+    "tnc-04-21.wav": {
+        "text": "you're starting",
+        "confidence": 0.77875638,
+        "language": "tnc"
+    },
+    "tnc-19-58.wav": {
+        "text": "to Nickel in",
+        "confidence": 0.81652349,
+        "language": "tnc"
+    },
+    "tnc-03-14.wav": {
+        "text": "shindai",
+        "confidence": 0.78086054,
+        "language": "tnc"
+    },
+    "tnc-10-68.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-1.wav": {
+        "text": "common questions and answers",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-23-2.wav": {
+        "text": "number one",
+        "confidence": 0.84072709,
+        "language": "eng"
+    },
+    "tnc-18-4.wav": {
+        "text": "I work during the day",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-14-24.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-30.wav": {
+        "text": "Nazi Alto",
+        "confidence": 0.85014927,
+        "language": "tnc"
+    },
+    "tnc-13-11.wav": {
+        "text": "Yankee Tok V",
+        "confidence": 0.720541,
+        "language": "tnc"
+    },
+    "tnc-14-18.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-13-10.wav": {
+        "text": "I love up in",
+        "confidence": 0.91504729,
+        "language": "eng"
+    },
+    "tnc-14-19.wav": {
+        "text": "it snow",
+        "confidence": 0.78212392,
+        "language": "tnc"
+    },
+    "tnc-14-31.wav": {
+        "text": "number 10 it's nice",
+        "confidence": 0.96829301,
+        "language": "eng"
+    },
+    "tnc-18-5.wav": {
+        "text": "Sanitation",
+        "confidence": 0.55711156,
+        "language": "tnc"
+    },
+    "tnc-14-25.wav": {
+        "text": "number seven it's cold",
+        "confidence": 0.91118258,
+        "language": "eng"
+    },
+    "tnc-23-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-15.wav": {
+        "text": "number five what are you doing",
+        "confidence": 0.95614982,
+        "language": "eng"
+    },
+    "tnc-10-69.wav": {
+        "text": "her husband",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-59.wav": {
+        "text": "number 17 fry",
+        "confidence": 0.96841258,
+        "language": "eng"
+    },
+    "tnc-19-71.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-166.wav": {
+        "text": "number 30 Old Man",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-04-20.wav": {
+        "text": "7 8 it's",
+        "confidence": 0.80863667,
+        "language": "tnc"
+    },
+    "tnc-10-55.wav": {
+        "text": "new",
+        "confidence": 0.51906431,
+        "language": "tnc"
+    },
+    "tnc-10-41.wav": {
+        "text": "your older sister",
+        "confidence": 0.94410211,
+        "language": "eng"
+    },
+    "tnc-19-65.wav": {
+        "text": "I'm spreading butter on it",
+        "confidence": 0.97180879,
+        "language": "eng"
+    },
+    "tnc-22-18.wav": {
+        "text": "Cal",
+        "confidence": 0.85835582,
+        "language": "tnc"
+    },
+    "tnc-25-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-8.wav": {
+        "text": "number three it's cloud",
+        "confidence": 0.92597526,
+        "language": "eng"
+    },
+    "tnc-22-24.wav": {
+        "text": "bear sleeps all winter",
+        "confidence": 0.96207607,
+        "language": "eng"
+    },
+    "tnc-21-1.wav": {
+        "text": "tools",
+        "confidence": 0.8811385,
+        "language": "tnc"
+    },
+    "tnc-10-96.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-39.wav": {
+        "text": "number 18",
+        "confidence": 0.97100401,
+        "language": "eng"
+    },
+    "tnc-10-82.wav": {
+        "text": "father's sister",
+        "confidence": 0.89219975,
+        "language": "tnc"
+    },
+    "tnc-07-2.wav": {
+        "text": "number one what is your name",
+        "confidence": 0.96960354,
+        "language": "eng"
+    },
+    "tnc-22-30.wav": {
+        "text": "number six",
+        "confidence": 0.83769089,
+        "language": "eng"
+    },
+    "tnc-06-19.wav": {
+        "text": "I'm not tired",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-01-10.wav": {
+        "text": "enough that's all",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-25.wav": {
+        "text": "oh that's",
+        "confidence": 0.84888375,
+        "language": "tnc"
+    },
+    "tnc-12-50.wav": {
+        "text": "his name is John",
+        "confidence": 0.96594125,
+        "language": "eng"
+    },
+    "tnc-29-8.wav": {
+        "text": "letter",
+        "confidence": 0.93531764,
+        "language": "eng"
+    },
+    "tnc-01-38.wav": {
+        "text": "okay let's go",
+        "confidence": 0.97216052,
+        "language": "eng"
+    },
+    "tnc-12-44.wav": {
+        "text": "call KissAnime",
+        "confidence": 0.8123998,
+        "language": "tnc"
+    },
+    "tnc-06-31.wav": {
+        "text": "t",
+        "confidence": 0.52086127,
+        "language": "tnc"
+    },
+    "tnc-27-14.wav": {
+        "text": "number",
+        "confidence": 0.94880778,
+        "language": "eng"
+    },
+    "tnc-29-39.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-28.wav": {
+        "text": "no clue t",
+        "confidence": 0.84433675,
+        "language": "tnc"
+    },
+    "tnc-20-21.wav": {
+        "text": "number six",
+        "confidence": 0.83974087,
+        "language": "eng"
+    },
+    "tnc-01-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-35.wav": {
+        "text": "number 10 Charco",
+        "confidence": 0.9687435,
+        "language": "eng"
+    },
+    "tnc-29-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-25.wav": {
+        "text": "comment",
+        "confidence": 0.69032037,
+        "language": "tnc"
+    },
+    "tnc-18-31.wav": {
+        "text": "head",
+        "confidence": 0.71149564,
+        "language": "tnc"
+    },
+    "tnc-11-15.wav": {
+        "text": "there's a lookout place on top of the hill",
+        "confidence": 0.97162461,
+        "language": "eng"
+    },
+    "tnc-05-48.wav": {
+        "text": "where are the matches",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-18-19.wav": {
+        "text": "I",
+        "confidence": 0.62874317,
+        "language": "tnc"
+    },
+    "tnc-16-34.wav": {
+        "text": "touching dating",
+        "confidence": 0.78702176,
+        "language": "tnc"
+    },
+    "tnc-16-20.wav": {
+        "text": "number nine",
+        "confidence": 0.85743469,
+        "language": "eng"
+    },
+    "tnc-11-29.wav": {
+        "text": "Mac multi Hors",
+        "confidence": 0.76636839,
+        "language": "tnc"
+    },
+    "tnc-29-122.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-6.wav": {
+        "text": "so",
+        "confidence": 0.81260616,
+        "language": "tnc"
+    },
+    "tnc-24-45.wav": {
+        "text": "number 18 maragans",
+        "confidence": 0.90362358,
+        "language": "eng"
+    },
+    "tnc-25-5.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-126.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-8.wav": {
+        "text": "my mother",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-25-1.wav": {
+        "text": "plant",
+        "confidence": 0.85983801,
+        "language": "tnc"
+    },
+    "tnc-03-2.wav": {
+        "text": "number one how are you",
+        "confidence": 0.96839923,
+        "language": "eng"
+    },
+    "tnc-24-41.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-11-11.wav": {
+        "text": "hey who is he",
+        "confidence": 0.76397055,
+        "language": "tnc"
+    },
+    "tnc-16-18.wav": {
+        "text": "fish",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-18-35.wav": {
+        "text": "had",
+        "confidence": 0.5670718,
+        "language": "tnc"
+    },
+    "tnc-18-21.wav": {
+        "text": "I didn't talk to",
+        "confidence": 0.71595103,
+        "language": "tnc"
+    },
+    "tnc-16-24.wav": {
+        "text": "machines it's",
+        "confidence": 0.77780259,
+        "language": "tnc"
+    },
+    "tnc-16-30.wav": {
+        "text": "nothing",
+        "confidence": 0.86791807,
+        "language": "tnc"
+    },
+    "tnc-11-39.wav": {
+        "text": "number nine",
+        "confidence": 0.83329749,
+        "language": "eng"
+    },
+    "tnc-29-29.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-19.wav": {
+        "text": "number 5 table",
+        "confidence": 0.88114291,
+        "language": "eng"
+    },
+    "tnc-27-10.wav": {
+        "text": "number three",
+        "confidence": 0.903126,
+        "language": "eng"
+    },
+    "tnc-29-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-31.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-27-3.wav": {
+        "text": "daily",
+        "confidence": 0.52681297,
+        "language": "tnc"
+    },
+    "tnc-20-25.wav": {
+        "text": "18",
+        "confidence": 0.59732813,
+        "language": "tnc"
+    },
+    "tnc-01-14.wav": {
+        "text": "Sean",
+        "confidence": 0.83972484,
+        "language": "tnc"
+    },
+    "tnc-06-35.wav": {
+        "text": "I have a",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-12-40.wav": {
+        "text": "I'm coming from our house",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-01-28.wav": {
+        "text": "number 10 like that",
+        "confidence": 0.96801639,
+        "language": "eng"
+    },
+    "tnc-06-21.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-25-15.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-34.wav": {
+        "text": "my dogs are playing",
+        "confidence": 0.96666503,
+        "language": "eng"
+    },
+    "tnc-07-6.wav": {
+        "text": "number three where are you from",
+        "confidence": 0.91778225,
+        "language": "eng"
+    },
+    "tnc-10-86.wav": {
+        "text": "mother's",
+        "confidence": 0.94992369,
+        "language": "eng"
+    },
+    "tnc-25-29.wav": {
+        "text": "number 14 Moss Al",
+        "confidence": 0.96737158,
+        "language": "eng"
+    },
+    "tnc-10-92.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-5.wav": {
+        "text": "he's chopping firewood with an ax",
+        "confidence": 0.96694738,
+        "language": "eng"
+    },
+    "tnc-22-20.wav": {
+        "text": "number four",
+        "confidence": 0.86492658,
+        "language": "eng"
+    },
+    "tnc-10-79.wav": {
+        "text": "mother's sister",
+        "confidence": 0.8677333,
+        "language": "tnc"
+    },
+    "tnc-04-18.wav": {
+        "text": "close the door",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-49.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-11.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-61.wav": {
+        "text": "I'm making fry",
+        "confidence": 0.96682256,
+        "language": "eng"
+    },
+    "tnc-10-45.wav": {
+        "text": "number nine",
+        "confidence": 0.83486855,
+        "language": "eng"
+    },
+    "tnc-10-51.wav": {
+        "text": "number 10",
+        "confidence": 0.89597297,
+        "language": "eng"
+    },
+    "tnc-10-162.wav": {
+        "text": "husky who are",
+        "confidence": 0.82838839,
+        "language": "tnc"
+    },
+    "tnc-09-9.wav": {
+        "text": "I'm wearing a",
+        "confidence": 0.9521904,
+        "language": "eng"
+    },
+    "tnc-19-75.wav": {
+        "text": "21 Rose",
+        "confidence": 0.96486878,
+        "language": "eng"
+    },
+    "tnc-28-41.wav": {
+        "text": "number 16",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-05-4.wav": {
+        "text": "what are you all doing",
+        "confidence": 0.89355695,
+        "language": "tnc"
+    },
+    "tnc-23-7.wav": {
+        "text": "number three",
+        "confidence": 0.83186108,
+        "language": "eng"
+    },
+    "tnc-13-14.wav": {
+        "text": "I am going down that way to Fairbank",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-14-21.wav": {
+        "text": "it's not snowing",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-13-28.wav": {
+        "text": "yeah answer toddler in in",
+        "confidence": 0.82872647,
+        "language": "tnc"
+    },
+    "tnc-18-1.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-35.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-34.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-20.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-13-29.wav": {
+        "text": "number seven down toward water",
+        "confidence": 0.8957454,
+        "language": "eng"
+    },
+    "tnc-13-15.wav": {
+        "text": "yeah that Fairbanks CT High",
+        "confidence": 0.92621529,
+        "language": "eng"
+    },
+    "tnc-23-6.wav": {
+        "text": "who",
+        "confidence": 0.68617207,
+        "language": "tnc"
+    },
+    "tnc-05-5.wav": {
+        "text": "consid",
+        "confidence": 0.70276284,
+        "language": "tnc"
+    },
+    "tnc-28-40.wav": {
+        "text": "get it not",
+        "confidence": 0.83403969,
+        "language": "tnc"
+    },
+    "tnc-10-50.wav": {
+        "text": "who",
+        "confidence": 0.8344844,
+        "language": "tnc"
+    },
+    "tnc-19-74.wav": {
+        "text": "that's a ho",
+        "confidence": 0.80467993,
+        "language": "tnc"
+    },
+    "tnc-09-8.wav": {
+        "text": "his",
+        "confidence": 0.60364068,
+        "language": "tnc"
+    },
+    "tnc-10-163.wav": {
+        "text": "number",
+        "confidence": 0.71318591,
+        "language": "eng"
+    },
+    "tnc-19-60.wav": {
+        "text": "it's",
+        "confidence": 0.87980479,
+        "language": "tnc"
+    },
+    "tnc-10-44.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-04-19.wav": {
+        "text": "Mr Nann",
+        "confidence": 0.80832428,
+        "language": "tnc"
+    },
+    "tnc-03-10.wav": {
+        "text": "about you",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-48.wav": {
+        "text": "number 14 Wild rhub",
+        "confidence": 0.9702487,
+        "language": "eng"
+    },
+    "tnc-10-78.wav": {
+        "text": "my",
+        "confidence": 0.94837981,
+        "language": "eng"
+    },
+    "tnc-10-93.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-28.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-22-21.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-21-4.wav": {
+        "text": "watching",
+        "confidence": 0.42372891,
+        "language": "tnc"
+    },
+    "tnc-07-7.wav": {
+        "text": "Destin",
+        "confidence": 0.95352167,
+        "language": "eng"
+    },
+    "tnc-22-35.wav": {
+        "text": "Ashley Craig Del",
+        "confidence": 0.81291503,
+        "language": "tnc"
+    },
+    "tnc-10-87.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-14.wav": {
+        "text": "number 7 dry Willow or",
+        "confidence": 0.77892816,
+        "language": "eng"
+    },
+    "tnc-01-29.wav": {
+        "text": "coach",
+        "confidence": 0.57241231,
+        "language": "tnc"
+    },
+    "tnc-06-20.wav": {
+        "text": "got a",
+        "confidence": 0.64395797,
+        "language": "tnc"
+    },
+    "tnc-12-41.wav": {
+        "text": "Nisha Hudson",
+        "confidence": 0.88200706,
+        "language": "tnc"
+    },
+    "tnc-06-34.wav": {
+        "text": "costini",
+        "confidence": 0.57133251,
+        "language": "tnc"
+    },
+    "tnc-01-15.wav": {
+        "text": "number 6",
+        "confidence": 0.80228293,
+        "language": "eng"
+    },
+    "tnc-20-24.wav": {
+        "text": "number seven te",
+        "confidence": 0.86356193,
+        "language": "eng"
+    },
+    "tnc-01-1.wav": {
+        "text": "common Express",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-29-14.wav": {
+        "text": "letter",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-27-2.wav": {
+        "text": "number one",
+        "confidence": 0.96228588,
+        "language": "eng"
+    },
+    "tnc-20-30.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-18.wav": {
+        "text": "it lucky",
+        "confidence": 0.76568723,
+        "language": "tnc"
+    },
+    "tnc-27-11.wav": {
+        "text": "paint",
+        "confidence": 0.5222196,
+        "language": "tnc"
+    },
+    "tnc-29-28.wav": {
+        "text": "letter",
+        "confidence": 0.96069276,
+        "language": "eng"
+    },
+    "tnc-16-31.wav": {
+        "text": "number 14 Mount Fair",
+        "confidence": 0.96694022,
+        "language": "eng"
+    },
+    "tnc-11-38.wav": {
+        "text": "hinted",
+        "confidence": 0.68466097,
+        "language": "tnc"
+    },
+    "tnc-16-25.wav": {
+        "text": "number 11 camp",
+        "confidence": 0.95673269,
+        "language": "eng"
+    },
+    "tnc-18-20.wav": {
+        "text": "after a while I'm going home",
+        "confidence": 0.97119117,
+        "language": "eng"
+    },
+    "tnc-11-10.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-34.wav": {
+        "text": "number 8 evening",
+        "confidence": 0.91216707,
+        "language": "eng"
+    },
+    "tnc-16-19.wav": {
+        "text": "Pizza Hut",
+        "confidence": 0.54170084,
+        "language": "tnc"
+    },
+    "tnc-24-40.wav": {
+        "text": "FL",
+        "confidence": 0.96179122,
+        "language": "eng"
+    },
+    "tnc-03-3.wav": {
+        "text": "didn't",
+        "confidence": 0.79690522,
+        "language": "tnc"
+    },
+    "tnc-10-9.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-125.wav": {
+        "text": "Rising t",
+        "confidence": 0.90671748,
+        "language": "eng"
+    },
+    "tnc-29-119.wav": {
+        "text": "low",
+        "confidence": 0.86872596,
+        "language": "tnc"
+    },
+    "tnc-03-1.wav": {
+        "text": "greetings and leave",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-24-42.wav": {
+        "text": "number 17",
+        "confidence": 0.97047895,
+        "language": "eng"
+    },
+    "tnc-25-2.wav": {
+        "text": "number one plants",
+        "confidence": 0.92219597,
+        "language": "eng"
+    },
+    "tnc-18-22.wav": {
+        "text": "number 6 morning",
+        "confidence": 0.87875891,
+        "language": "eng"
+    },
+    "tnc-18-36.wav": {
+        "text": "it's getting toward",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-11-12.wav": {
+        "text": "number three",
+        "confidence": 0.83483219,
+        "language": "eng"
+    },
+    "tnc-16-33.wav": {
+        "text": "number 15 Eric",
+        "confidence": 0.83463031,
+        "language": "eng"
+    },
+    "tnc-16-27.wav": {
+        "text": "number 12 Long",
+        "confidence": 0.9640463,
+        "language": "eng"
+    },
+    "tnc-27-13.wav": {
+        "text": "infected",
+        "confidence": 0.69841033,
+        "language": "tnc"
+    },
+    "tnc-01-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-26.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-20-32.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-9.wav": {
+        "text": "number three",
+        "confidence": 0.89265192,
+        "language": "eng"
+    },
+    "tnc-29-16.wav": {
+        "text": "letter s",
+        "confidence": 0.94842315,
+        "language": "eng"
+    },
+    "tnc-01-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-06-22.wav": {
+        "text": "are you",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-06-36.wav": {
+        "text": "Costa",
+        "confidence": 0.83463109,
+        "language": "tnc"
+    },
+    "tnc-12-43.wav": {
+        "text": "I went to your house but no one was home",
+        "confidence": 0.97219551,
+        "language": "eng"
+    },
+    "tnc-25-16.wav": {
+        "text": "number 8 dry Spruce br",
+        "confidence": 0.94316167,
+        "language": "eng"
+    },
+    "tnc-21-6.wav": {
+        "text": "teen ass sets at",
+        "confidence": 0.83817482,
+        "language": "tnc"
+    },
+    "tnc-22-23.wav": {
+        "text": "so",
+        "confidence": 0.55160218,
+        "language": "tnc"
+    },
+    "tnc-10-91.wav": {
+        "text": "number 16",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-85.wav": {
+        "text": "my uncle",
+        "confidence": 0.91614091,
+        "language": "eng"
+    },
+    "tnc-22-37.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-07-5.wav": {
+        "text": "Irene juic",
+        "confidence": 0.73313624,
+        "language": "tnc"
+    },
+    "tnc-03-12.wav": {
+        "text": "number",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-149.wav": {
+        "text": "in",
+        "confidence": 0.57839084,
+        "language": "tnc"
+    },
+    "tnc-10-161.wav": {
+        "text": "she is the chief's",
+        "confidence": 0.94536746,
+        "language": "eng"
+    },
+    "tnc-19-76.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-52.wav": {
+        "text": "my older brother",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-46.wav": {
+        "text": "my younger sister",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-19-62.wav": {
+        "text": "it's",
+        "confidence": 0.72054738,
+        "language": "tnc"
+    },
+    "tnc-28-42.wav": {
+        "text": "probably tomorrow",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-23-4.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-05-7.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-13-17.wav": {
+        "text": "yeah",
+        "confidence": 0.56812429,
+        "language": "tnc"
+    },
+    "tnc-14-36.wav": {
+        "text": "number 12 it's slipp",
+        "confidence": 0.95787138,
+        "language": "eng"
+    },
+    "tnc-18-2.wav": {
+        "text": "number one day today",
+        "confidence": 0.96768421,
+        "language": "eng"
+    },
+    "tnc-14-22.wav": {
+        "text": "guy",
+        "confidence": 0.53285164,
+        "language": "tnc"
+    },
+    "tnc-18-3.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-14-23.wav": {
+        "text": "number six it's wind",
+        "confidence": 0.89918518,
+        "language": "eng"
+    },
+    "tnc-14-37.wav": {
+        "text": "no cool",
+        "confidence": 0.73327148,
+        "language": "tnc"
+    },
+    "tnc-13-16.wav": {
+        "text": "number four area toward water",
+        "confidence": 0.93871993,
+        "language": "eng"
+    },
+    "tnc-05-6.wav": {
+        "text": "number two I'm eating",
+        "confidence": 0.94358724,
+        "language": "eng"
+    },
+    "tnc-23-5.wav": {
+        "text": "number two",
+        "confidence": 0.90892136,
+        "language": "eng"
+    },
+    "tnc-28-43.wav": {
+        "text": "got done that",
+        "confidence": 0.80507463,
+        "language": "tnc"
+    },
+    "tnc-10-47.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-19-63.wav": {
+        "text": "number 18 butter",
+        "confidence": 0.92745256,
+        "language": "eng"
+    },
+    "tnc-10-160.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-10-53.wav": {
+        "text": "ocean",
+        "confidence": 0.44228247,
+        "language": "tnc"
+    },
+    "tnc-10-148.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-03-13.wav": {
+        "text": "me too I'm fine",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-10-84.wav": {
+        "text": "number 15",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-07-4.wav": {
+        "text": "number two my name is Irene",
+        "confidence": 0.93408871,
+        "language": "eng"
+    },
+    "tnc-22-36.wav": {
+        "text": "number seven Fox",
+        "confidence": 0.87811917,
+        "language": "eng"
+    },
+    "tnc-22-22.wav": {
+        "text": "black bear",
+        "confidence": 0.83856094,
+        "language": "tnc"
+    },
+    "tnc-21-7.wav": {
+        "text": "number two",
+        "confidence": 0.92134523,
+        "language": "eng"
+    },
+    "tnc-10-90.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-12-42.wav": {
+        "text": "number 12",
+        "confidence": 0.97075939,
+        "language": "eng"
+    },
+    "tnc-06-37.wav": {
+        "text": "number 7 do you have a stomach",
+        "confidence": 0.91940278,
+        "language": "eng"
+    },
+    "tnc-06-23.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-16.wav": {
+        "text": "here",
+        "confidence": 0.96728802,
+        "language": "eng"
+    },
+    "tnc-12-8.wav": {
+        "text": "duck egg",
+        "confidence": 0.52731133,
+        "language": "tnc"
+    },
+    "tnc-27-1.wav": {
+        "text": "colors",
+        "confidence": 0.91129029,
+        "language": "eng"
+    },
+    "tnc-20-33.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-29-17.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-20-27.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-01-2.wav": {
+        "text": "number one",
+        "confidence": 0.82911056,
+        "language": "eng"
+    },
+    "tnc-27-12.wav": {
+        "text": "cranberries are red",
+        "confidence": 0.97219545,
+        "language": "eng"
+    },
+    "tnc-16-26.wav": {
+        "text": "name day",
+        "confidence": 0.59007859,
+        "language": "tnc"
+    },
+    "tnc-16-32.wav": {
+        "text": "kitchen",
+        "confidence": 0.61208034,
+        "language": "tnc"
+    },
+    "tnc-18-37.wav": {
+        "text": "had to take her",
+        "confidence": 0.86819452,
+        "language": "tnc"
+    },
+    "tnc-11-13.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-18-23.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    },
+    "tnc-25-3.wav": {
+        "text": "Nash",
+        "confidence": 0.58665854,
+        "language": "tnc"
+    },
+    "tnc-24-43.wav": {
+        "text": "duck General",
+        "confidence": 0.80626768,
+        "language": "tnc"
+    },
+    "tnc-29-118.wav": {
+        "text": "Val's may be marked for",
+        "confidence": 0.83675802,
+        "language": "tnc"
+    },
+    "tnc-29-124.wav": {
+        "text": "",
+        "confidence": 0,
+        "language": "tnc"
+    }
+}
