@@ -2,8 +2,8 @@
 layout: phrase
 title: Plants
 parent: Category
-section: 24
-nav_order: 24
+section: 25
+nav_order: 25
 permalink: plants
 ---
 

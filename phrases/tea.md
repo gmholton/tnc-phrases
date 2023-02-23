@@ -3,8 +3,8 @@ layout: phrase
 title: Drinking Tea
 parent: Category
 description: Drinking Tea (dialogue) 
-section: 25
-nav_order: 25
+section: 26
+nav_order: 26
 permalink: tea
 ---
 

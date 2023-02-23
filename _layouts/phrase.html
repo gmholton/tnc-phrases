@@ -23,7 +23,7 @@ layout: default
 		{% assign lnk = new.name | prepend: "phrases/" %}
 		<a class="prev" href="{% link {{lnk}}  %}">&laquo; {{ new.section }}</a>
     {% endif %}
-  {% if page.section <= site.number_categories %}
+  {% if page.section < site.number_categories %}
   	{% assign num = page.section | plus: 1 %}
   {% else %}
   	{% assign num = 1 %}
@@ -38,9 +38,30 @@ layout: default
 
 {% assign thephrases = site.data.phrases | where:"secnum",page.section %}
 {% for row in thephrases %}
-   <table border=0><tr><td><span class="tnc">{{row.tnc}}</span><br/> <span class="gloss">{{row.eng}}</span></td>
-   <td><audio src="{{site.baseurl}}/{{site.audiopath}}/{{row.audio}}" controls type="audio/mpeg">Your browser does not support the audio tag.</audio></td></tr></table> 
-
+	{% if row.audio %}
+		{% assign theaudio = row.audio %}
+	{% else %}
+		{% if row.secnum.size == 1 %}
+			{% assign category = row.secnum | prepend: "0" %}
+		{% else %}
+			{% assign category = row.secnum %}
+		{% endif %}
+		{% if row.order.size == 1 %}
+			{% assign track = row.order | prepend: "0" %}
+		{% else %}
+			{% assign track = row.order %}
+		{% endif %}
+		{% assign theaudio = category | prepend: "tnc-" | append: "-" | append: track | append: ".mp3" %}
+	{% endif %}
+	<div class="audiobox">
+	<div class="text">
+		<span class="tnc">{{row.tnc}}</span><br/>
+		 <span class="gloss">{{row.eng}}</span></td>
+	</div>
+   <div class="audio"><audio src="{{site.baseurl}}/{{site.audiopath}}/{{theaudio}}" controls type="audio/mpeg">Your browser does not support the audio tag.</audio>
+   <br/>{{site.baseurl}}/{{site.audiopath}}/{{theaudio}} 
+   </div></div> 
+	<hr/>
 {% comment %}
    <!--
      <p><audio src="{{site.audiourl}}/{{row.audio}}" controls type="audio/mpeg" style="float:left;margin-right:20px;width:300px;">Your browser does not support the audio tag.</audio>
@@ -50,7 +71,7 @@ layout: default
 {% endfor %}
 
 
-<div class="PageNavigation">
+<div class="PageNavigationBottom">
   {% if page.section > 1 %}
   	{% assign num = page.section | minus: 1 %}
   {% else %}
@@ -61,6 +82,8 @@ layout: default
 		{% assign lnk = new.name | prepend: "phrases/" %}
 		<a class="prev" href="{% link {{lnk}}  %}">&laquo; {{ new.section }}</a>
     {% endif %}
+	<a class="back" href="#top">Back to top</a>
+
   {% if page.section <= site.number_categories %}
   	{% assign num = page.section | plus: 1 %}
   {% else %}
