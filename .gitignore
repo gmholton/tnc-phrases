@@ -9,6 +9,15 @@ _site/
 .bundle/
 vendor/
 
+# python
+.python*
+
 # mac os
 .DS_Store
+*.bbprojectd
 
+# ripped audio processing
+ripped/
+
+# media
+assets/audio/
