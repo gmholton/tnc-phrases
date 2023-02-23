@@ -21,7 +21,7 @@ with open(data, "r") as f:
     cat = []
     sec = 1
     while sec < 30:
-        secphrases = [ph for ph in phrases if ph['secnum'] == sec]
+        secphrases = [ph for ph in phrases if ph['secnum'] == str(sec)]
         order = 1
         for ph in secphrases:
             tnc = ph['tnc'].split('//')
