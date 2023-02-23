@@ -16,7 +16,7 @@ back_to_top: true
 
 gh_edit_link: false # show or hide edit this page link
 
-footer_content: "Copyright &copy; 2003-2023 Irene Solomon Arnold, Gary Holton, and Rick Thoman. <a href='credits.html'>Credits</a>."
+#footer_content: "Copyright &copy; 2003-2023 Irene Solomon Arnold, Gary Holton, and Rick Thoman. <a href='credits.html'>Credits</a>."
 
 number_categories: 28 # total number of categories in categories.csv
 
