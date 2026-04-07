@@ -14,5 +14,5 @@ Click on any category to get started, or just begin with:
 [Common Expressions]({% link phrases/expressions.md %}){: .btn .btn-green  }
 
 <img src="assets/images/cd-line.png" style="float:left; margin-right:10px;width:100px;"/>
-The materials on this site were originally produced as part of the *Tanacross Phrase and Conversation Lessons*, published in 2003 as a booklet with accompanying compact disc. The original book and CD set is available for purchase from the  the [Alaska Native Language Center](https://epay.alaska.edu/C21563_ustores/web/product_detail.jsp?PRODUCTID=5708&SINGLESTORE=true).
+The materials on this site were originally produced as part of the *Tanacross Phrase and Conversation Lessons*, published in 2003 as a booklet with accompanying compact disc. The original book and CD set is available for purchase from the  the [Alaska Native Language Center](https://www.uaf.edu/anlc). <!-- (https://epay.alaska.edu/C21563_ustores/web/product_detail.jsp?PRODUCTID=5708&SINGLESTORE=true) -->
 
