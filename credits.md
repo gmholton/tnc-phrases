@@ -11,7 +11,7 @@ permalink: credits
 
 > Solomon, Irene, Gary Holton, and Richard Thoman. 2003. Dihthâad Xt’een Iin Aanděg’, The Mansfield People’s Language (Tanacross Phrase and Conversation Lessons). Fairbanks: Alaska Native Language Center.
 
-- Cover photo of Mansield Lake (Dihthâad Měnn') by Wayne Towriss.
+- Cover photo of Mansfield Lake (Dihthâad Měnn') by Wayne Towriss.
 - Original CD art by Gary John.
 - Editing and production by Thomas Alton.
 - Web version recoded by Gary Holton and available on [Github](http://github.com/gmholton/tnc-phrases). 
